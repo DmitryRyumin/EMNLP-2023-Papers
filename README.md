@@ -65,6 +65,10 @@ EMNLP 2023 Papers: A comprehensive collection of cutting-edge research papers pr
         <td align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/CVPR-2023-Papers" alt="" /></a></td>
     </tr>
     <tr>
+        <td>ICCV</td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICCV-2023-Papers" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
+    </tr>
+    <tr>
       <td colspan="2" align="center"><i>Speech/Signal Processing (SP/SigProc)</i></td>
     </tr>
     <tr>
@@ -78,13 +82,6 @@ EMNLP 2023 Papers: A comprehensive collection of cutting-edge research papers pr
     <tr>
         <td>ISMIR</td>
         <td align="center"><a href="https://github.com/yamathcy/ISMIR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/yamathcy/ISMIR-2023-Papers" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center"><i>Natural Language Processing (NLP)</i></td>
-    </tr>
-    <tr>
-        <td>EMNLP</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/EMNLP-2023-Papers" alt="" /></a></td>
     </tr>
 </table>
 
