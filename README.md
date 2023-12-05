@@ -119,7 +119,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/tutorial-abstracts.md">Tutorial Abstracts</a>
             </td>
-            <td colspan="4" rowspan="18" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="16" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
@@ -197,12 +197,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             </td>
         </tr>
         <tr>
-            <td colspan="2" align="center"><i>Main</i></td>
+            <td colspan="5" align="center"><i>Main</i></td>
         </tr>
         <tr>
             <td>
                 <a href="#">Information Extraction</a>
             </td>
+            <td colspan="4" rowspan="1" align="center"><i>Will soon be added</i></td
         </tr>
     </tbody>
 </table>
