@@ -203,12 +203,165 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="#">Information Extraction</a>
             </td>
-            <td colspan="4" rowspan="1" align="center"><i>Will soon be added</i></td
+            <td colspan="4" rowspan="32" align="center"><i>Will soon be added</i></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Machine Translation</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Computational Social Science and Cultural Analytics</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Dialogue and Interactive Systems</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Findings</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Industry</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Discourse and Pragmatics</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Commonsense Reasoning</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Efficient Methods for NLP</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Ethics in NLP</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Phonology, Morphology, and Word Segmentation</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Interpretability, Interactivity, and Analysis of Models for NLP</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Language Grounding to Vision, Robotics and Beyond</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Language Modeling and Analysis of Language Models</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Information Retrieval and Text Mining</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Linguistic Theories, Cognitive Modeling and Psycholinguistics</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Multilinguality and Linguistic Diversity</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Natural Language Generation</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">NLP Applications</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Theme Track: Large Language Models and the Future of NLP</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Human-Centered NLP</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Question Answering</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Resources and Evaluation</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Semantics</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Sentiment/Stylistic Analysis</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Speech & Multimodality</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Summarization</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Machine Learning for NLP</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Syntax, Parsing and their Applications</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Industry Track</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Poster</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Demo</a>
+            </td>
         </tr>
     </tbody>
 </table>
-
-<!-- Information Extraction -->
 
 ---
 
