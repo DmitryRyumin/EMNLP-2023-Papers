@@ -18,7 +18,7 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| [Fabricator: An Open Source Toolkit for Generating Labeled Training Data with Teacher LLMs](https://aclanthology.org/2023.emnlp-demo.1) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.1.pdf) |  |
+| [Fabricator: An Open Source Toolkit for Generating Labeled Training Data with Teacher LLMs](https://aclanthology.org/2023.emnlp-demo.1) | [![GitHub](https://img.shields.io/github/stars/flairNLP/fabricator)](https://github.com/flairNLP/fabricator) | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.1.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2309.09582-b31b1b.svg)](http://arxiv.org/abs/2309.09582) | :heavy_minus_sign: |
 | [End-to-End Evaluation for Low-Latency Simultaneous Speech Translation](https://aclanthology.org/2023.emnlp-demo.2) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.2.pdf) |  |
 | [CHATREPORT: Democratizing Sustainability Disclosure Analysis through LLM-based Tools](https://aclanthology.org/2023.emnlp-demo.3) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.3.pdf) |  |
 | [RaLLe: A Framework for Developing and Evaluating Retrieval-Augmented Large Language Models](https://aclanthology.org/2023.emnlp-demo.4) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.4.pdf) |  |
