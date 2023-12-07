@@ -18,55 +18,55 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| Fabricator: An Open Source Toolkit for Generating Labeled Training Data with Teacher LLMs |  |  |  |
-| End-to-End Evaluation for Low-Latency Simultaneous Speech Translation |  |  |  |
-| CHATREPORT: Democratizing Sustainability Disclosure Analysis through LLM-based Tools |  |  |  |
-| RaLLe: A Framework for Developing and Evaluating Retrieval-Augmented Large Language Models |  |  |  |
-| VIST5: An Adaptive, Retrieval-Augmented Language Model for Visualization-Oriented Dialog |  |  |  |
-| H2O Open Ecosystem for State-of-the-Art Large Language Models |  |  |  |
-| Koala: An Index for Quantifying Overlaps with Pre-Training Corpora |  |  |  |
-| Sudowoodo: A Chinese Lyric Imitation System with Source Lyrics |  |  |  |
-| ConvLab-3: A Flexible Dialogue System Toolkit based on a Unified Data Format |  |  |  |
-| FLEEK: Factual Error Detection and Correction with Evidence Retrieved from External Knowledge |  |  |  |
-| YATO: Yet Another Deep Learning based Text Analysis Open Toolkit |  |  |  |
-| Spacerini: Plug-and-Play Search Engines with Pyserini and Hugging Face |  |  |  |
-| Adapters: A Unified Library for Parameter-Efficient and Modular Transfer Learning |  |  |  |
-| INTELMO: Enhancing Models' Adoption of Interactive Interfaces |  |  |  |
-| Humanoid Agents: Platform for Simulating Human-Like Generative Agents |  |  |  |
-| TP-Detector: Detecting Turning Points in the Engineering Process of Large-Scale Projects |  |  |  |
-| CLEVA: Chinese Language Models EVAluation Platform |  |  |  |
-| DOPA METER - A Tool Suite for Metrical Document Profiling and Aggregation |  |  |  |
-| Muted: Multilingual Targeted Offensive Speech Identification and Visualization |  |  |  |
-| Gentopia.AI: A Collaborative Platform for Tool-Augmented LLMs |  |  |  |
-| MusicAgent: An AI Agent for Music Understanding and Generation with Large Language Models |  |  |  |
-| SentAlign: Accurate and Scalable Sentence Alignment |  |  |  |
-| QACheck: A Demonstration System for Question-Guided Multi-Hop Fact-Checking |  |  |  |
-| RobustQA: A Framework for Adversarial Text Generation Analysis on Question Answering Systems |  |  |  |
-| Kandinsky: An Improved Text-to-Image Synthesis with Image Prior and Latent Diffusion |  |  |  |
-| NewsRecLib: A PyTorch-Lightning Library for Neural News Recommendation |  |  |  |
-| MiniChain: A Small Library for Coding with Large Language Models |  |  |  |
-| Okapi: Instruction-Tuned Large Language Models in Multiple Languages with Reinforcement Learning from Human Feedback |  |  |  |
-| SAGEViz: SchemA GEneration and Visualization |  |  |  |
-| Thresh: A Unified, Customizable and Deployable Platform for Fine-Grained Text Evaluation |  |  |  |
-| InsightPilot: An LLM-Empowered Automated Data Exploration System |  |  |  |
-| SynJax: Structured Probability Distributions for JAX |  |  |  |
-| RESIN-EDITOR: A Schema-Guided Hierarchical Event Graph Visualizer and Editor |  |  |  |
-| DRGCoder: Explainable Clinical Coding for the Early Prediction of Diagnostic-Related Groups |  |  |  |
-| CAMRA: Copilot for AMR Annotation |  |  |  |
-| Reaction Miner: An Integrated System for Chemical Reaction Extraction from Textual Data |  |  |  |
-| CHAMP: Efficient Annotation and Consolidation of Cluster Hierarchies |  |  |  |
-| Prompt2Model: Generating Deployable Models from Natural Language Instructions |  |  |  |
-| NewsSense: Reference-Free Verification via Cross-Document Comparison |  |  |  |
-| NeMo Guardrails: A Toolkit for Controllable and Safe LLM Applications with Programmable Rails |  |  |  |
-| LM-Polygraph: Uncertainty Estimation for Language Models |  |  |  |
-| Descriptive Knowledge Graph in Biomedical Domain |  |  |  |
-| Prompterator: Iterate Efficiently towards more Effective Prompts |  |  |  |
-| ZhuJiu: A Multi-Dimensional, Multi-Faceted Chinese Benchmark for Large Language Models |  |  |  |
-| PaperMage: A Unified Toolkit for Processing, Representing, and Manipulating Visually-Rich Scientific Documents |  |  |  |
-| OmniEvent: A Comprehensive, Fair, and Easy-to-use Toolkit for Event Understanding |  |  |  |
-| CocoSciSum: A Scientific Summarization Toolkit with Compositional Controllability |  |  |  |
-| CoLLiE: Collaborative Training of Large Language Models in an Efficient Way |  |  |  |
-| Video-LLaMA: An Instruction-Tuned Audio-Visual Language Model for Video Understanding |  |  |  |
-| SummHelper: Collaborative Human-Computer Summarization |  |  |  |
-| ModelScope-Agent: Building Your Customizable Agent System with Open-Source Large Language Models |  |  |  |
-| EfficientOCR: An Extensible, Open-Source Package for Efficiently Digitizing World Knowledge |  |  |  |
+| [Fabricator: An Open Source Toolkit for Generating Labeled Training Data with Teacher LLMs](https://aclanthology.org/2023.emnlp-demo.1) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.1.pdf) |  |
+| [End-to-End Evaluation for Low-Latency Simultaneous Speech Translation](https://aclanthology.org/2023.emnlp-demo.2) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.2.pdf) |  |
+| [CHATREPORT: Democratizing Sustainability Disclosure Analysis through LLM-based Tools](https://aclanthology.org/2023.emnlp-demo.3) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.3.pdf) |  |
+| [RaLLe: A Framework for Developing and Evaluating Retrieval-Augmented Large Language Models](https://aclanthology.org/2023.emnlp-demo.4) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.4.pdf) |  |
+| [VIST5: An Adaptive, Retrieval-Augmented Language Model for Visualization-Oriented Dialog](https://aclanthology.org/2023.emnlp-demo.5) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.5.pdf) |  |
+| [H2O Open Ecosystem for State-of-the-Art Large Language Models](https://aclanthology.org/2023.emnlp-demo.6) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.6.pdf) |  |
+| [Koala: An Index for Quantifying Overlaps with Pre-Training Corpora](https://aclanthology.org/2023.emnlp-demo.7) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.7.pdf) |  |
+| [Sudowoodo: A Chinese Lyric Imitation System with Source Lyrics](https://aclanthology.org/2023.emnlp-demo.8) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.8.pdf) |  |
+| [ConvLab-3: A Flexible Dialogue System Toolkit based on a Unified Data Format](https://aclanthology.org/2023.emnlp-demo.9) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.9.pdf) |  |
+| [FLEEK: Factual Error Detection and Correction with Evidence Retrieved from External Knowledge](https://aclanthology.org/2023.emnlp-demo.10) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.10.pdf) |  |
+| [YATO: Yet Another Deep Learning based Text Analysis Open Toolkit](https://aclanthology.org/2023.emnlp-demo.11) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.11.pdf) |  |
+| [Spacerini: Plug-and-Play Search Engines with Pyserini and Hugging Face](https://aclanthology.org/2023.emnlp-demo.12) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.12.pdf) |  |
+| [Adapters: A Unified Library for Parameter-Efficient and Modular Transfer Learning](https://aclanthology.org/2023.emnlp-demo.13) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.13.pdf) |  |
+| [INTELMO: Enhancing Models' Adoption of Interactive Interfaces](https://aclanthology.org/2023.emnlp-demo.14) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.14.pdf) |  |
+| [Humanoid Agents: Platform for Simulating Human-Like Generative Agents](https://aclanthology.org/2023.emnlp-demo.15) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.15.pdf) |  |
+| [TP-Detector: Detecting Turning Points in the Engineering Process of Large-Scale Projects](https://aclanthology.org/2023.emnlp-demo.16) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.16.pdf) |  |
+| [CLEVA: Chinese Language Models EVAluation Platform](https://aclanthology.org/2023.emnlp-demo.17) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.17.pdf) |  |
+| [DOPA METER - A Tool Suite for Metrical Document Profiling and Aggregation](https://aclanthology.org/2023.emnlp-demo.18) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.18.pdf) |  |
+| [Muted: Multilingual Targeted Offensive Speech Identification and Visualization](https://aclanthology.org/2023.emnlp-demo.19) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.19.pdf) |  |
+| [Gentopia.AI: A Collaborative Platform for Tool-Augmented LLMs](https://aclanthology.org/2023.emnlp-demo.20) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.20.pdf) |  |
+| [MusicAgent: An AI Agent for Music Understanding and Generation with Large Language Models](https://aclanthology.org/2023.emnlp-demo.21) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.21.pdf) |  |
+| [SentAlign: Accurate and Scalable Sentence Alignment](https://aclanthology.org/2023.emnlp-demo.22) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.22.pdf) |  |
+| [QACheck: A Demonstration System for Question-Guided Multi-Hop Fact-Checking](https://aclanthology.org/2023.emnlp-demo.23) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.23.pdf) |  |
+| [RobustQA: A Framework for Adversarial Text Generation Analysis on Question Answering Systems](https://aclanthology.org/2023.emnlp-demo.24) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.24.pdf) |  |
+| [Kandinsky: An Improved Text-to-Image Synthesis with Image Prior and Latent Diffusion](https://aclanthology.org/2023.emnlp-demo.25) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.25.pdf) |  |
+| [NewsRecLib: A PyTorch-Lightning Library for Neural News Recommendation](https://aclanthology.org/2023.emnlp-demo.26) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.26.pdf) |  |
+| [MiniChain: A Small Library for Coding with Large Language Models](https://aclanthology.org/2023.emnlp-demo.27) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.27.pdf) |  |
+| [Okapi: Instruction-Tuned Large Language Models in Multiple Languages with Reinforcement Learning from Human Feedback](https://aclanthology.org/2023.emnlp-demo.28) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.28.pdf) |  |
+| [SAGEViz: SchemA GEneration and Visualization](https://aclanthology.org/2023.emnlp-demo.29) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.29.pdf) |  |
+| [Thresh: A Unified, Customizable and Deployable Platform for Fine-Grained Text Evaluation](https://aclanthology.org/2023.emnlp-demo.30) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.30.pdf) |  |
+| [InsightPilot: An LLM-Empowered Automated Data Exploration System](https://aclanthology.org/2023.emnlp-demo.31) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.31.pdf) |  |
+| [SynJax: Structured Probability Distributions for JAX](https://aclanthology.org/2023.emnlp-demo.32) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.32.pdf) |  |
+| [RESIN-EDITOR: A Schema-Guided Hierarchical Event Graph Visualizer and Editor](https://aclanthology.org/2023.emnlp-demo.33) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.33.pdf) |  |
+| [DRGCoder: Explainable Clinical Coding for the Early Prediction of Diagnostic-Related Groups](https://aclanthology.org/2023.emnlp-demo.34) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.34.pdf) |  |
+| [CAMRA: Copilot for AMR Annotation](https://aclanthology.org/2023.emnlp-demo.35) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.35.pdf) |  |
+| [Reaction Miner: An Integrated System for Chemical Reaction Extraction from Textual Data](https://aclanthology.org/2023.emnlp-demo.36) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.36.pdf) |  |
+| [CHAMP: Efficient Annotation and Consolidation of Cluster Hierarchies](https://aclanthology.org/2023.emnlp-demo.37) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.37.pdf) |  |
+| [Prompt2Model: Generating Deployable Models from Natural Language Instructions](https://aclanthology.org/2023.emnlp-demo.38) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.38.pdf) |  |
+| [NewsSense: Reference-Free Verification via Cross-Document Comparison](https://aclanthology.org/2023.emnlp-demo.39) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.39.pdf) |  |
+| [NeMo Guardrails: A Toolkit for Controllable and Safe LLM Applications with Programmable Rails](https://aclanthology.org/2023.emnlp-demo.40) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.40.pdf) |  |
+| [LM-Polygraph: Uncertainty Estimation for Language Models](https://aclanthology.org/2023.emnlp-demo.41) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.41.pdf) |  |
+| [Descriptive Knowledge Graph in Biomedical Domain](https://aclanthology.org/2023.emnlp-demo.42) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.42.pdf) |  |
+| [Prompterator: Iterate Efficiently towards more Effective Prompts](https://aclanthology.org/2023.emnlp-demo.43) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.43.pdf) |  |
+| [ZhuJiu: A Multi-Dimensional, Multi-Faceted Chinese Benchmark for Large Language Models](https://aclanthology.org/2023.emnlp-demo.44) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.44.pdf) |  |
+| [PaperMage: A Unified Toolkit for Processing, Representing, and Manipulating Visually-Rich Scientific Documents](https://aclanthology.org/2023.emnlp-demo.45) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.45.pdf) |  |
+| [OmniEvent: A Comprehensive, Fair, and Easy-to-use Toolkit for Event Understanding](https://aclanthology.org/2023.emnlp-demo.46) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.46.pdf) |  |
+| [CocoSciSum: A Scientific Summarization Toolkit with Compositional Controllability](https://aclanthology.org/2023.emnlp-demo.47) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.47.pdf) |  |
+| [CoLLiE: Collaborative Training of Large Language Models in an Efficient Way](https://aclanthology.org/2023.emnlp-demo.48) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.48.pdf) |  |
+| [Video-LLaMA: An Instruction-Tuned Audio-Visual Language Model for Video Understanding](https://aclanthology.org/2023.emnlp-demo.49) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.49.pdf) |  |
+| [SummHelper: Collaborative Human-Computer Summarization](https://aclanthology.org/2023.emnlp-demo.50) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.50.pdf) |  |
+| [ModelScope-Agent: Building Your Customizable Agent System with Open-Source Large Language Models](https://aclanthology.org/2023.emnlp-demo.51) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.51.pdf) |  |
+| [EfficientOCR: An Extensible, Open-Source Package for Efficiently Digitizing World Knowledge](https://aclanthology.org/2023.emnlp-demo.52) |  | [![acl](https://img.shields.io/badge/pdf-acl-CBCBCC.svg)](https://aclanthology.org/2023.emnlp-demo.52.pdf) |  |
