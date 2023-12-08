@@ -324,33 +324,53 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         <tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/arabicnlp.md">ArabicNLP</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/arabicnlp.md">The First Arabic Natural Language Processing Conference (ArabicNLP)</a>
             </td>
-            <td colspan="4" rowspan="13" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="17" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/workshop-on-argument-mining.md">10th Workshop on Argument Mining</a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/conference-on-computational-natural-language-learning.md">27th Conference on Computational Natural Language Learning (CoNLL)</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/workshop-on-argument-mining.md">The 10th Workshop on Argument Mining (ArgMining)</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/workshop-on-computational-approaches-to-historical-language-change.md">4th Workshop on Computational Approaches to Historical Language Change</a>
+                <a href="#">BlackboxNLP 2023: The 6th Workshop on Analysing and Interpreting Neural Networks for NLP</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/workshop-on-multi-lingual-representation-learning.md">3rd Workshop on Multi-Lingual Representation Learning (MRL)</a>
+                <a href="#">The Sixth Workshop on Computational Approaches to Linguistic Code Switching</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/new-frontiers-in-summarization-workshop.md">4th New Frontiers in Summarization Workshop</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/conference-on-computational-natural-language-learning.md">The 27th SIGNLL Conference on Computational Natural Language Learning (CoNLL)</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/conference-on-computational-natural-language-learning.md">The Sixth Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC)</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/conference-on-computational-natural-language-learning.md">GenBench: The First Workshop on Generalisation (Benchmarking) in NLP</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/workshop-on-computational-approaches-to-historical-language-change.md"> The 4th International Workshop on Computational Approaches to Historical Language Change (LChange)</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/workshop-on-multi-lingual-representation-learning.md">The Third Workshop on Multi-Lingual Representation Learning (MRL)</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/new-frontiers-in-summarization-workshop.md">The 4th New Frontiers in Summarization Workshop (NewSumm)</a>
             </td>
         </tr>
         <tr>
@@ -360,32 +380,32 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/natural-legal-language-processing-workshop.md">Natural Legal Language Processing Workshop</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/natural-legal-language-processing-workshop.md">The Natural Legal Language Processing Workshop (NLLP)</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/workshop-for-natural-language-processing-open-source-software.md">3rd Workshop for Natural Language Processing Open Source Software (NLP-OSS)</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/workshop-for-natural-language-processing-open-source-software.md">The 3rd Workshop for Natural Language Processing Open Source Software (NLP-OSS)</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/workshop-on-pattern-based-approaches-to-nlp-in-the-age-of-deep-learning.md">2nd Workshop on Pattern-based Approaches to NLP in the Age of Deep Learning</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/workshop-on-pattern-based-approaches-to-nlp-in-the-age-of-deep-learning.md">The 2nd Workshop on Pattern-based Approaches to NLP in the Age of Deep Learning (Pan-DL)</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/combined-workshop-on-spatial-language-understanding-and-grounded-communication-for-robotics.md">3rd Combined Workshop on Spatial Language Understanding and Grounded Communication for Robotics (SpLU-RoboNLP)</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/combined-workshop-on-spatial-language-understanding-and-grounded-communication-for-robotics.md">The 3rd Combined Workshop on Spatial Language Understanding and Grounded Communication for Robotics (SpLU-RoboNLP)</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/seventh-widening-nlp-workshop.md">Seventh Widening NLP Workshop (WiNLP)</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/seventh-widening-nlp-workshop.md">The Seventh Widening NLP Workshop (WiNLP)</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/eighth-conference-on-machine-translation.md">Eighth Conference on Machine Translation</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/eighth-conference-on-machine-translation.md">The Eighth Conference on Machine Translation (WMT)</a>
             </td>
         </tr>
     </tbody>
