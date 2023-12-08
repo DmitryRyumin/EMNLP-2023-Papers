@@ -156,7 +156,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/industry-track.md">Industry Track</a>
             </td>
-            <td colspan="4" rowspan="33" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="32" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
@@ -301,11 +301,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         <tr>
             <td>
                 <a href="#">Syntax, Parsing and their Applications</a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="#">Industry Track</a>
             </td>
         </tr>
         <tr>
