@@ -326,7 +326,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/arabicnlp.md">The First Arabic Natural Language Processing Conference (ArabicNLP)</a>
             </td>
-            <td colspan="4" rowspan="17" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="20" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
@@ -406,6 +406,21 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/eighth-conference-on-machine-translation.md">The Eighth Conference on Machine Translation (WMT)</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/eighth-conference-on-machine-translation.md">Natural Language Generation, Evaluation, and Metric (GEM)</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/eighth-conference-on-machine-translation.md">The Big Picture: Crafting a Research Narrative (BigPicture)</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/eighth-conference-on-machine-translation.md">The First Bangla Language Processing Workshop (BLP)</a>
             </td>
         </tr>
     </tbody>
