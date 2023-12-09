@@ -7,7 +7,7 @@
     <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" alt="" />
     </a>
-    <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/blackboxnlp.md">
+    <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/computational-approaches-to-linguistic-code-switching.md">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" alt="" />
     </a>
 </div>
