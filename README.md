@@ -180,11 +180,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         </tr>
         <tr>
             <td>
-                <a href="#">Findings</a>
-            </td>
-        </tr>
-        <tr>
-            <td>
                 <a href="#">Industry</a>
             </td>
         </tr>
@@ -311,6 +306,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         <tr>
             <td>
                 <a href="#">Demo</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Findings</a>
             </td>
         </tr>
         <tr>
