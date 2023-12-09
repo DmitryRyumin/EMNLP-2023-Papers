@@ -160,157 +160,157 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         </tr>
         <tr>
             <td>
-                <a href="#">Information Extraction</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/information-extraction.md">Information Extraction</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Machine Translation</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/machine-translation.md">Machine Translation</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Computational Social Science and Cultural Analytics</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/computational-social-science-and-cultural-analytics.md">Computational Social Science and Cultural Analytics</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Dialogue and Interactive Systems</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/dialogue-and-interactive-systems.md">Dialogue and Interactive Systems</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Industry</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/industry.md">Industry</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Discourse and Pragmatics</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/discourse-and-pragmatics.md">Discourse and Pragmatics</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Commonsense Reasoning</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/commonsense-reasoning.md">Commonsense Reasoning</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Efficient Methods for NLP</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/efficient-methods-for-nlp.md">Efficient Methods for NLP</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Ethics in NLP</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/ethics-in-nlp.md">Ethics in NLP</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Phonology, Morphology, and Word Segmentation</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/phonology-morphology-and-word-segmentation.md">Phonology, Morphology, and Word Segmentation</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Interpretability, Interactivity, and Analysis of Models for NLP</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/interpretability-interactivity-and-analysis-of-models-for-nlp.md">Interpretability, Interactivity, and Analysis of Models for NLP</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Language Grounding to Vision, Robotics and Beyond</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/language-grounding-to-vision-robotics-and-beyond.md">Language Grounding to Vision, Robotics and Beyond</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Language Modeling and Analysis of Language Models</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/language-modeling-and-analysis-of-language-models.md">Language Modeling and Analysis of Language Models</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Information Retrieval and Text Mining</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/information-retrieval-and-text-mining.md">Information Retrieval and Text Mining</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Linguistic Theories, Cognitive Modeling and Psycholinguistics</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/linguistic-theories-cognitive-modeling-and-psycholinguistics.md">Linguistic Theories, Cognitive Modeling and Psycholinguistics</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Multilinguality and Linguistic Diversity</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/multilinguality-and-linguistic-diversity.md">Multilinguality and Linguistic Diversity</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Natural Language Generation</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/natural-language-generation.md">Natural Language Generation</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">NLP Applications</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/nlp-applications.md">NLP Applications</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Theme Track: Large Language Models and the Future of NLP</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/large-language-models-and-the-future-of-nlp.md">Theme Track: Large Language Models and the Future of NLP</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Human-Centered NLP</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/human-centered-nlp.md">Human-Centered NLP</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Question Answering</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/question-answering.md">Question Answering</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Resources and Evaluation</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/resources-and-evaluation.md">Resources and Evaluation</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Semantics</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/semantics.md">Semantics</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Sentiment/Stylistic Analysis</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/sentiment-stylistic-analysis.md">Sentiment/Stylistic Analysis</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Speech & Multimodality</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/speech-and-multimodality.md">Speech & Multimodality</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Summarization</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/summarization.md">Summarization</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Machine Learning for NLP</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/machine-learning-for-nlp.md">Machine Learning for NLP</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Syntax, Parsing and their Applications</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/syntax-parsing-and-their-applications.md">Syntax, Parsing and their Applications</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Poster</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/poster.md">Poster</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Demo</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/demo.md">Demo</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">Findings</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/findings.md">Findings</a>
             </td>
         </tr>
         <tr>
@@ -325,12 +325,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/workshop-on-argument-mining.md">The 10th Workshop on Argument Mining (ArgMining)</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/argmining.md">The 10th Workshop on Argument Mining (ArgMining)</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#">BlackboxNLP 2023: The 6th Workshop on Analysing and Interpreting Neural Networks for NLP</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/blackboxnlp.md">BlackboxNLP 2023: The 6th Workshop on Analysing and Interpreting Neural Networks for NLP</a>
             </td>
         </tr>
         <tr>
