@@ -103,7 +103,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ## Papers <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/ai.svg" width="30" alt="" />
 
-> :exclamation: Final paper links will be added post-conference.
+<!-- > :exclamation: Final paper links will be added post-conference. -->
 
 <table>
     <thead>
