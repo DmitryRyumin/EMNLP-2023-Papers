@@ -1,13 +1,13 @@
 # EMNLP-2023-Papers
 
 <div align="center">
-    <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/tutorial-abstracts.md">
+    <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/system-demonstrations.md">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" alt="" />
     </a>
     <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" alt="" />
     </a>
-    <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/industry-track.md">
+    <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/information-extraction.md">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" alt="" />
     </a>
 </div>
