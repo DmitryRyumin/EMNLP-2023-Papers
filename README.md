@@ -18,9 +18,9 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/EMNLP-2023-Papers)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FEMNLP-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
 
-<!-- 147/2688 -->
+<!-- 152/2688 -->
 <div style="float:left;">
-  <img src="https://geps.dev/progress/5?successColor=006600" alt="Success" />
+  <img src="https://geps.dev/progress/6?successColor=006600" alt="Success" />
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="Done" />
 </div>
 
@@ -190,12 +190,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/machine-translation.md">Machine Translation</a>
             </td>
-            <td colspan="4" rowspan="30" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/machine-translation.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/machine-translation.md"><img src="https://img.shields.io/badge/5-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/machine-translation.md"><img src="https://img.shields.io/badge/4-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/machine-translation.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/computational-social-science-and-cultural-analytics.md">Computational Social Science and Cultural Analytics</a>
             </td>
+            <td colspan="4" rowspan="29" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
