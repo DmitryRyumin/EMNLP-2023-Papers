@@ -36,7 +36,7 @@ EMNLP 2023 Papers: A comprehensive collection of cutting-edge research papers pr
 
 ---
 
-[*The PDF version of the EMNLP 2023 Conference Programme*](https://2023.emnlp.org/downloads/EMNLP-2023-Handbook-Dec-03.pdf), comprises a list of all accepted papers, their presentation order, as well as the designated presentation times.
+[*The PDF version of the EMNLP 2023 Conference Programme*](https://2023.emnlp.org/downloads/EMNLP-2023-Handbook-Dec-06.pdf), comprises a list of all accepted papers, their presentation order, as well as the designated presentation times.
 
 ---
 
