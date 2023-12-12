@@ -18,7 +18,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/EMNLP-2023-Papers)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FEMNLP-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
 
-<!-- 135/2688 -->
+<!-- 147/2688 -->
 <div style="float:left;">
   <img src="https://geps.dev/progress/5?successColor=006600" alt="Success" />
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="Done" />
