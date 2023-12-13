@@ -239,14 +239,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/industry.md">Industry</a>
-            </td>
-            <td colspan="4" rowspan="27" align="center"><i>Will soon be added</i></td>
-        </tr>
-        <tr>
-            <td>
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/discourse-and-pragmatics.md">Discourse and Pragmatics</a>
             </td>
+            <td colspan="4" rowspan="26" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
