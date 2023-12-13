@@ -18,15 +18,15 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/EMNLP-2023-Papers)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FEMNLP-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
 
-<!-- 170/2688 -->
+<!-- 176/2688 -->
 <div style="float:left;">
-  <img src="https://geps.dev/progress/6?successColor=006600" alt="Success" />
+  <img src="https://geps.dev/progress/7?successColor=006600" alt="Success" />
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="Done" />
 </div>
 
 ---
 
-EMNLP 2023 Papers: A comprehensive collection of cutting-edge research papers presented at [*EMNLP 2023*](https://2023.emnlp.org/), the leading conference dedicated to the advancement of empirical methods in natural language processing. Keep up with the most recent advancements in machine learning, deep learning, and natural language processing. Code implementations are included, making it a central repository for the advancement of language understanding and processing! :star: the repository for the development of language understanding and processing!
+EMNLP 2023 Papers: A comprehensive collection of cutting-edge research papers presented at [*EMNLP 2023*](https://2023.emnlp.org/), the leading conference dedicated to the advancement of empirical methods in natural language processing (NLP). Keep up with the most recent advancements in machine learning (ML), deep learning (DL), and NLP. Code implementations are included, making it a central repository for the advancement of language understanding and processing! :star: the repository for the development of language understanding and processing!
 
 <p align="center">
     <a href="https://2023.emnlp.org/" target="_blank">
@@ -241,12 +241,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/discourse-and-pragmatics.md">Discourse and Pragmatics</a>
             </td>
-            <td colspan="4" rowspan="26" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/discourse-and-pragmatics.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/discourse-and-pragmatics.md"><img src="https://img.shields.io/badge/5-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/discourse-and-pragmatics.md"><img src="https://img.shields.io/badge/5-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/discourse-and-pragmatics.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/commonsense-reasoning.md">Commonsense Reasoning</a>
             </td>
+            <td colspan="4" rowspan="25" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
