@@ -16,4 +16,18 @@
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-soon-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-soon-FF0000)
 
-> Will soon be added
+<!-- 169, 260 -->
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Learning to Predict Task Transferability via Soft Prompt |  |  |  |
+| Byte Pair Encoding for Symbolic Music |  |  |  |
+| Understanding the Effect of Model Compression on Social Bias in Large Language Models |  |  |  |
+| Knowledge Distillation &asymp; Label Smoothing: Fact or Fallacy? |  |  |  |
+| The Framework Tax: Disparities between Inference Efficiency in NLP Research and Deployment |  |  |  |
+| Making Large Language Models Better Data Creators |  |  |  |
+| APrompt: Attention Prompt Tuning for Efficient Adaptation of Pre-Trained Language Models |  |  |  |
+| Parameter-Efficient Language Model Tuning with Active Learning in Low-Resource Settings |  |  |  |
+| Merging Experts into One: Improving Computational Efficiency of Mixture of Experts |  |  |  |
+| Selective Labeling: How to Radically Lower Data-Labeling Costs for Document Extraction Models |  |  |  |
+| Focus Your Attention (with Adaptive IIR Filters) |  |  |  |
+| Let's Sample Step by Step: Adaptive-Consistency for Efficient Reasoning and Coding with LLMs |  |  |  |
