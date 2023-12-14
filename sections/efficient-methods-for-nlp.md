@@ -30,4 +30,4 @@
 | Merging Experts into One: Improving Computational Efficiency of Mixture of Experts |  |  |  |
 | Selective Labeling: How to Radically Lower Data-Labeling Costs for Document Extraction Models |  |  |  |
 | Focus Your Attention (with Adaptive IIR Filters) |  |  |  |
-| Let's Sample Step by Step: Adaptive-Consistency for Efficient Reasoning and Coding with LLMs |  |  |  |
+| Let&rsquo;s Sample Step by Step: Adaptive-Consistency for Efficient Reasoning and Coding with LLMs |  |  |  |
