@@ -63,7 +63,7 @@ EMNLP 2023 Papers: A comprehensive collection of cutting-edge research papers pr
     </tr>
     <tr>
         <td>CVPR</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/EMNLP-2023-Papers" alt="" /></a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/EMNLP-2023-Papers" alt="" /></a></td>
     </tr>
     <tr>
         <td>ICCV</td>
