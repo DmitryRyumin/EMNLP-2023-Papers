@@ -63,7 +63,7 @@ EMNLP 2023 Papers: A comprehensive collection of cutting-edge research papers pr
     </tr>
     <tr>
         <td>CVPR</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/CVPR-2023-Papers" alt="" /></a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/EMNLP-2023-Papers" alt="" /></a></td>
     </tr>
     <tr>
         <td>ICCV</td>
@@ -123,16 +123,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/tutorial-abstracts.md">Tutorial Abstracts</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/tutorial-abstracts.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/tutorial-abstracts.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/tutorial-abstracts.md"><img src="https://img.shields.io/badge/0-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/tutorial-abstracts.md"><img src="https://img.shields.io/badge/0-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/tutorial-abstracts.md"><img src="https://img.shields.io/badge/0-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/tutorial-abstracts.md"><img src="https://img.shields.io/badge/0-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/tutorial-abstracts.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/tutorial-abstracts.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -140,16 +140,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/system-demonstrations.md">System Demonstrations</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/system-demonstrations.md"><img src="https://img.shields.io/badge/52-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/system-demonstrations.md"><img src="https://img.shields.io/badge/52-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/system-demonstrations.md"><img src="https://img.shields.io/badge/38-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/system-demonstrations.md"><img src="https://img.shields.io/badge/38-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/system-demonstrations.md"><img src="https://img.shields.io/badge/40-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/system-demonstrations.md"><img src="https://img.shields.io/badge/40-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/system-demonstrations.md"><img src="https://img.shields.io/badge/26-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/system-demonstrations.md"><img src="https://img.shields.io/badge/26-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -157,16 +157,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/industry-track.md">Industry Track</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/industry-track.md"><img src="https://img.shields.io/badge/77-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/industry-track.md"><img src="https://img.shields.io/badge/77-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/industry-track.md"><img src="https://img.shields.io/badge/31-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/industry-track.md"><img src="https://img.shields.io/badge/31-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/industry-track.md"><img src="https://img.shields.io/badge/13-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/industry-track.md"><img src="https://img.shields.io/badge/13-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/industry-track.md"><img src="https://img.shields.io/badge/1-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/industry-track.md"><img src="https://img.shields.io/badge/1-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -174,16 +174,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/information-extraction.md">Information Extraction</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/information-extraction.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/information-extraction.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/information-extraction.md"><img src="https://img.shields.io/badge/11-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/information-extraction.md"><img src="https://img.shields.io/badge/11-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/information-extraction.md"><img src="https://img.shields.io/badge/10-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/information-extraction.md"><img src="https://img.shields.io/badge/10-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/information-extraction.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/information-extraction.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -191,16 +191,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/machine-translation.md">Machine Translation</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/machine-translation.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/machine-translation.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/machine-translation.md"><img src="https://img.shields.io/badge/5-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/machine-translation.md"><img src="https://img.shields.io/badge/5-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/machine-translation.md"><img src="https://img.shields.io/badge/4-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/machine-translation.md"><img src="https://img.shields.io/badge/4-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/machine-translation.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/machine-translation.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -208,16 +208,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/computational-social-science-and-cultural-analytics.md">Computational Social Science and Cultural Analytics</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/computational-social-science-and-cultural-analytics.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/computational-social-science-and-cultural-analytics.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/computational-social-science-and-cultural-analytics.md"><img src="https://img.shields.io/badge/3-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/computational-social-science-and-cultural-analytics.md"><img src="https://img.shields.io/badge/3-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/computational-social-science-and-cultural-analytics.md"><img src="https://img.shields.io/badge/2-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/computational-social-science-and-cultural-analytics.md"><img src="https://img.shields.io/badge/2-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/computational-social-science-and-cultural-analytics.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/computational-social-science-and-cultural-analytics.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -225,16 +225,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/dialogue-and-interactive-systems.md">Dialogue and Interactive Systems</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/dialogue-and-interactive-systems.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/dialogue-and-interactive-systems.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/dialogue-and-interactive-systems.md"><img src="https://img.shields.io/badge/8-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/dialogue-and-interactive-systems.md"><img src="https://img.shields.io/badge/8-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/dialogue-and-interactive-systems.md"><img src="https://img.shields.io/badge/11-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/dialogue-and-interactive-systems.md"><img src="https://img.shields.io/badge/11-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/dialogue-and-interactive-systems.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/dialogue-and-interactive-systems.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -242,16 +242,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/discourse-and-pragmatics.md">Discourse and Pragmatics</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/discourse-and-pragmatics.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/discourse-and-pragmatics.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/discourse-and-pragmatics.md"><img src="https://img.shields.io/badge/5-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/discourse-and-pragmatics.md"><img src="https://img.shields.io/badge/5-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/discourse-and-pragmatics.md"><img src="https://img.shields.io/badge/5-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/discourse-and-pragmatics.md"><img src="https://img.shields.io/badge/5-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/discourse-and-pragmatics.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/discourse-and-pragmatics.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -259,16 +259,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/commonsense-reasoning.md">Commonsense Reasoning</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/commonsense-reasoning.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/commonsense-reasoning.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/commonsense-reasoning.md"><img src="https://img.shields.io/badge/5-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/commonsense-reasoning.md"><img src="https://img.shields.io/badge/5-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/commonsense-reasoning.md"><img src="https://img.shields.io/badge/3-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/commonsense-reasoning.md"><img src="https://img.shields.io/badge/3-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/commonsense-reasoning.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/commonsense-reasoning.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -276,16 +276,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/efficient-methods-for-nlp.md">Efficient Methods for NLP</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/efficient-methods-for-nlp.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/efficient-methods-for-nlp.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/efficient-methods-for-nlp.md"><img src="https://img.shields.io/badge/8-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/efficient-methods-for-nlp.md"><img src="https://img.shields.io/badge/8-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/efficient-methods-for-nlp.md"><img src="https://img.shields.io/badge/7-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/efficient-methods-for-nlp.md"><img src="https://img.shields.io/badge/7-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/efficient-methods-for-nlp.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/efficient-methods-for-nlp.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -293,16 +293,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/ethics-in-nlp.md">Ethics in NLP</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/ethics-in-nlp.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/ethics-in-nlp.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/ethics-in-nlp.md"><img src="https://img.shields.io/badge/3-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/ethics-in-nlp.md"><img src="https://img.shields.io/badge/3-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/ethics-in-nlp.md"><img src="https://img.shields.io/badge/4-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/ethics-in-nlp.md"><img src="https://img.shields.io/badge/4-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/ethics-in-nlp.md"><img src="https://img.shields.io/badge/1-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/ethics-in-nlp.md"><img src="https://img.shields.io/badge/1-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -310,16 +310,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/phonology-morphology-and-word-segmentation.md">Phonology, Morphology, and Word Segmentation</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/phonology-morphology-and-word-segmentation.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/phonology-morphology-and-word-segmentation.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/phonology-morphology-and-word-segmentation.md"><img src="https://img.shields.io/badge/3-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/phonology-morphology-and-word-segmentation.md"><img src="https://img.shields.io/badge/3-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/phonology-morphology-and-word-segmentation.md"><img src="https://img.shields.io/badge/3-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/phonology-morphology-and-word-segmentation.md"><img src="https://img.shields.io/badge/3-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/phonology-morphology-and-word-segmentation.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/phonology-morphology-and-word-segmentation.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -327,16 +327,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/interpretability-interactivity-and-analysis-of-models-for-nlp.md">Interpretability, Interactivity, and Analysis of Models for NLP</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/interpretability-interactivity-and-analysis-of-models-for-nlp.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/interpretability-interactivity-and-analysis-of-models-for-nlp.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/interpretability-interactivity-and-analysis-of-models-for-nlp.md"><img src="https://img.shields.io/badge/11-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/interpretability-interactivity-and-analysis-of-models-for-nlp.md"><img src="https://img.shields.io/badge/11-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/interpretability-interactivity-and-analysis-of-models-for-nlp.md"><img src="https://img.shields.io/badge/7-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/interpretability-interactivity-and-analysis-of-models-for-nlp.md"><img src="https://img.shields.io/badge/7-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/interpretability-interactivity-and-analysis-of-models-for-nlp.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/interpretability-interactivity-and-analysis-of-models-for-nlp.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -410,16 +410,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/speech-and-multimodality.md">Speech & Multimodality</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/speech-and-multimodality.md"><img src="https://img.shields.io/badge/11-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/speech-and-multimodality.md"><img src="https://img.shields.io/badge/11-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/speech-and-multimodality.md"><img src="https://img.shields.io/badge/9-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/speech-and-multimodality.md"><img src="https://img.shields.io/badge/9-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/speech-and-multimodality.md"><img src="https://img.shields.io/badge/8-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/speech-and-multimodality.md"><img src="https://img.shields.io/badge/8-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/speech-and-multimodality.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/speech-and-multimodality.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
