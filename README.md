@@ -18,7 +18,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/EMNLP-2023-Papers)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FEMNLP-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
 
-<!-- 205/2688 -->
+<!-- 217/2688 -->
 <div style="float:left;">
   <img src="https://geps.dev/progress/8?successColor=006600" alt="Success" />
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="Done" />
@@ -326,12 +326,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/interpretability-interactivity-and-analysis-of-models-for-nlp.md">Interpretability, Interactivity, and Analysis of Models for NLP</a>
             </td>
-            <td colspan="4" rowspan="21" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/interpretability-interactivity-and-analysis-of-models-for-nlp.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/interpretability-interactivity-and-analysis-of-models-for-nlp.md"><img src="https://img.shields.io/badge/11-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/interpretability-interactivity-and-analysis-of-models-for-nlp.md"><img src="https://img.shields.io/badge/7-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/interpretability-interactivity-and-analysis-of-models-for-nlp.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/language-grounding-to-vision-robotics-and-beyond.md">Language Grounding to Vision, Robotics and Beyond</a>
             </td>
+            <td colspan="4" rowspan="20" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
