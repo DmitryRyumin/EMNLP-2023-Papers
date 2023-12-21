@@ -119,6 +119,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         <tr>
             <td colspan="5" align="center"><i>Main</i></td>
         </tr>
+        <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/tutorial-abstracts.md">Tutorial Abstracts</a>
             </td>
