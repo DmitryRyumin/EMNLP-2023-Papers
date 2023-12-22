@@ -549,7 +549,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/sentiment-stylistic-analysis.md">Sentiment/Stylistic Analysis</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/sentiment-stylistic-analysis.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/sentiment-stylistic-analysis.md"><img src="https://img.shields.io/badge/4-42BA16" alt="Papers"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/sentiment-stylistic-analysis.md"><img src="https://img.shields.io/badge/2-b31b1b" alt="Preprints"></a>
