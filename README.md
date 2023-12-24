@@ -18,9 +18,9 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/EMNLP-2023-Papers)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FEMNLP-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
 
-<!-- 359/2688 -->
+<!-- 369/2688 -->
 <div style="float:left;">
-  <img src="https://geps.dev/progress/13?successColor=006600" alt="Success" />
+  <img src="https://geps.dev/progress/14?successColor=006600" alt="Success" />
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="Done" />
 </div>
 
@@ -633,12 +633,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/poster.md">Poster</a>
             </td>
-            <td colspan="4" rowspan="2" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/poster.md"><img src="https://img.shields.io/badge/10-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/poster.md"><img src="https://img.shields.io/badge/8-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/poster.md"><img src="https://img.shields.io/badge/7-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/poster.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/findings.md">Findings</a>
             </td>
+            <td colspan="4" rowspan="1" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td colspan="5" align="center"><i>Workshops</i></td>
