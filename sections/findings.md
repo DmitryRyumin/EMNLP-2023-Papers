@@ -1,7 +1,7 @@
 # EMNLP-2023-Papers
 
 <div align="center">
-    <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/demo.md">
+    <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/poster.md">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" alt="" />
     </a>
     <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/">
