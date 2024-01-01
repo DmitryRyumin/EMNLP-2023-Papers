@@ -1,10 +1,10 @@
 # EMNLP-2023-Papers
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg?style=flat)](https://github.com/sindresorhus/awesome)
 [![Conference](http://img.shields.io/badge/EMNLP-2023-E60113.svg)](https://2023.emnlp.org/)
 ![Version](https://img.shields.io/badge/version-v0.0.0-rc0)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DmitryRyumin/EMNLP-2023-Papers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat)](https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/LICENSE)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/README.md)
 ![GitHub contributors](https://img.shields.io/github/contributors/dmitryryumin/EMNLP-2023-Papers)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/dmitryryumin/EMNLP-2023-Papers)
