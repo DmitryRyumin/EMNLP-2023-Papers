@@ -14,7 +14,7 @@
 
 ## Poster
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-40-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-30-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-28-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-1-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-60-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-44-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-43-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-1-FF0000)
 
 <!-- 131, 174, 218, 263, 308, 352 -->
 | **Title** | **Repo** | **Paper** | **Video** |
