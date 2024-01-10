@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Learning Co-Speech Gesture for Multimodal Aphasia Type Detection",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.577",
+    "repo": "https://github.com/DSAIL-SKKU/Multimodal-Aphasia-Type-Detection_EMNLP_2023",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.577.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.11710",
+    "video": null
+  },
+  {
+    "title": "ClimateBERT-NetZero: Detecting and Assessing Net Zero and Reduction Targets",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.975",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.975.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.08096",
+    "video": null
+  },
+  {
+    "title": "Advancements in Arabic Grammatical Error Detection and Correction: An Empirical Investigation",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.396",
+    "repo": "https://github.com/CAMeL-Lab/arabic-gec",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.396.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.14734",
+    "video": null
+  },
+  {
+    "title": "Detection of Multiple Mental Disorders from Social Media with Two-Stream Psychiatric Experts",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.562",
+    "repo": "https://github.com/chesiy/EMNLP23-PsyEx",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.562.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Event-Location Tracking in Narratives: A Case Study on Holocaust Testimonies",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.544",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.544.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Learning the Visualness of Text using Large Vision-Language Models",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.147",
+    "repo": null,
+    "web_page": null,
+    "github_page": "https://gaurav22verma.github.io/text-visualness/",
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.147.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.10434",
+    "video": null
+  },
+  {
+    "title": "UniMath: A Foundational and Multimodal Mathematical Reasoner",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.440",
+    "repo": "https://github.com/Zhenwen-NLP/UniMath",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.440.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Predictive Chemistry Augmented with Text Retrieval",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.784",
+    "repo": "https://github.com/thomas0809/textreact",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.784.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2312.04881",
+    "video": null
+  },
+  {
+    "title": "Precedent-Enhanced Legal Judgment Prediction with LLM and Domain-Model Collaboration",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.740",
+    "repo": "https://github.com/wuyiquan/PLJP",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.740.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.09241",
+    "video": null
+  },
+  {
+    "title": "Hidding the Ghostwriters: An Adversarial Evaluation of AI-Generated Student Essay Detection",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.644",
+    "repo": "https://github.com/xinlinpeng/AIG-ASAP",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.644.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Analyzing Norm Violations in Live-Stream Chat",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.55",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.55.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.10731",
+    "video": null
+  },
+  {
+    "title": "ALCAP: Alignment-Augmented Music Captioner",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.1028",
+    "repo": "https://github.com/zihaohe123/ALCAP",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.1028.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2212.10901",
+    "video": null
+  }
+]

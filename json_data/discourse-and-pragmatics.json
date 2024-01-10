@@ -1,0 +1,68 @@
+[
+  {
+    "title": "CoheSentia: A Novel Benchmark of Incremental versus Holistic Assessment of Coherence in Generated Texts",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.324",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.324.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.16329",
+    "video": null
+  },
+  {
+    "title": "Improving Long Document Topic Segmentation Models with Enhanced Coherence Modeling",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.341",
+    "repo": "https://github.com/alibaba-damo-academy/SpokenNLP",
+    "web_page": null,
+    "github_page": "https://github.com/alibaba-damo-academy/SpokenNLP/tree/main/emnlp2023-topic_segmentation",
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.341.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.11772",
+    "video": null
+  },
+  {
+    "title": "Improving Dialogue Discourse Parsing via Reply-to Structures of Addressee Recognition",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.526",
+    "repo": "https://github.com/yxfanSuda/RLTST",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.526.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "QUDeval: The Evaluation of Questions Under Discussion Discourse Parsing",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.325",
+    "repo": "https://github.com/lingchensanwen/QUDeval",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.325.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.14520",
+    "video": null
+  },
+  {
+    "title": "Seq2seq is All You Need for Coreference Resolution",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.704",
+    "repo": "https://github.com/WenzhengZhang/Seq2seqCoref",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.704.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.13774",
+    "video": null
+  },
+  {
+    "title": "Prompt-based Logical Semantics Enhancement for Implicit Discourse Relation Recognition",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.45",
+    "repo": "https://github.com/lalalamdbf/PLSE_IDRR",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.45.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2311.00367",
+    "video": null
+  }
+]

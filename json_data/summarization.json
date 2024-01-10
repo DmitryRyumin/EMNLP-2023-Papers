@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Instructive Dialogue Summarization with Query Aggregations",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.474",
+    "repo": "https://github.com/BinWang28/InstructDS",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.474.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.10981",
+    "video": null
+  },
+  {
+    "title": "Investigating Efficiently Extending Transformers for Long Input Summarization",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.240",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.240.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2208.04347",
+    "video": null
+  },
+  {
+    "title": "Zero-Shot Faithfulness Evaluation for Text Summarization with Foundation Language Model",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.679",
+    "repo": "https://github.com/JiaQiSJTU/FaithEval-FFLM",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.679.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.11648",
+    "video": null
+  },
+  {
+    "title": "Indicative Summarization of Long Discussions",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.166",
+    "repo": "https://github.com/webis-de/emnlp23-indicative-summarization-of-long-discussions",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.166.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2311.01882",
+    "video": null
+  },
+  {
+    "title": "Promoting Topic Coherence and Inter-Document Consorts in Multi-Document Summarization via Simplicial Complex and Sheaf Graph",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.133",
+    "repo": "https://github.com/LCS2-IIITD/FABRIC",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.133.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Length Does Matter: Summary Length can Bias Summarization Metrics",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.984",
+    "repo": "https://github.com/xiaobo-guo/SLDebias",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.984.pdf",
+    "paper_arxiv": null,
+    "video": null
+  }
+]

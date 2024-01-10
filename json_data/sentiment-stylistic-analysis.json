@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Argument-based Detection and Classification of Fallacies in Political Debates",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.684",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.684.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Why Should this Article be Deleted? Transparent Stance Detection in Multilingual Wikipedia Editor Discussions",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.361",
+    "repo": "https://github.com/copenlu/wiki-stance",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.361.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.05779",
+    "video": null
+  },
+  {
+    "title": "EXPLAIN, EDIT, GENERATE: Rationale-Sensitive Counterfactual Data Augmentation for Multi-Hop Fact Verification",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.826",
+    "repo": "https://github.com/AAAndy-Zhu/RACE",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.826.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.14508",
+    "video": null
+  },
+  {
+    "title": "Joyful: Joint Modality Fusion and Graph Contrastive Learning for Multimoda Emotion Recognition",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.996",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.996.pdf",
+    "paper_arxiv": null,
+    "video": null
+  }
+]

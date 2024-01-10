@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Models See Hallucinations: Evaluating the Factuality in Video Captioning",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.723",
+    "repo": "https://github.com/PKULiuHui/FactVC",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.723.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2303.02961",
+    "video": null
+  },
+  {
+    "title": "Describe Me an Auklet: Generating Grounded Perceptual Category Descriptions",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.580",
+    "repo": "https://github.com/GU-CLASP/describe-me-an-auklet",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.580.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Reading Books is Great, but not if You are Driving! Visually Grounded Reasoning about Defeasible Commonsense Norms",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.57",
+    "repo": "https://github.com/wade3han/normlens",
+    "web_page": "https://seungjuhan.me/normlens/",
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.57.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.10418",
+    "video": null
+  },
+  {
+    "title": "Bridging the Digital Divide: Performance Variation across Socio-Economic Factors in Vision-Language Models",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.660",
+    "repo": "https://github.com/MichiganNLP/Bridging_the_Digital_Divide",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.660.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2311.05746",
+    "video": null
+  },
+  {
+    "title": "3DRP-Net: 3D Relative Position-Aware Network for 3D Visual Grounding",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.656",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.656.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2307.13363",
+    "video": null
+  },
+  {
+    "title": "Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.304",
+    "repo": "https://github.com/PlusLabNLP/ENVISION",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.304.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.15066",
+    "video": "https://www.youtube.com/watch?v=t_yDXUriRZo"
+  }
+]

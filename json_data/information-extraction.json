@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Cross-Document Event Coreference Resolution on Discourse Structure",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.294",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.294.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Anaphor Assisted Document-Level Relation Extraction",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.955",
+    "repo": "https://github.com/BurgerBurgerBurger/AA",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.955.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.18604",
+    "video": null
+  },
+  {
+    "title": "RAPL: A Relation-Aware Prototype Learning Approach for Few-Shot Document-Level Relation Extraction",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.316",
+    "repo": "https://github.com/THU-BPM/RAPL",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.316.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.15743",
+    "video": null
+  },
+  {
+    "title": "Guideline Learning for In-Context Information Extraction",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.950",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.950.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.05066",
+    "video": null
+  },
+  {
+    "title": "Preserving Knowledge Invariance: Rethinking Robustness Evaluation of Open Information Extraction",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.360",
+    "repo": "https://github.com/qijimrc/ROBUST",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.360.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.13981",
+    "video": null
+  },
+  {
+    "title": "Instruct and Extract: Instruction Tuning for On-Demand Information Extraction",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.620",
+    "repo": "https://github.com/yzjiao/On-Demand-IE",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.620.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.16040",
+    "video": null
+  },
+  {
+    "title": "ViStruct: Visual Structural Knowledge Extraction via Curriculum Guided Code-Vision Representation",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.824",
+    "repo": "https://github.com/Yangyi-Chen/vi-struct",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.824.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2311.13258",
+    "video": null
+  },
+  {
+    "title": "CorefPrompt: Prompt-based Event Coreference Resolution by Measuring Event Type and Argument Compatibilities",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.954",
+    "repo": "https://github.com/jsksxs360/prompt-event-coref-emnlp2023",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.954.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.14512",
+    "video": null
+  },
+  {
+    "title": "Continual Event Extraction with Semantic Confusion Rectification",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.732",
+    "repo": "https://github.com/nju-websoft/SCR",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.732.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.15470",
+    "video": null
+  },
+  {
+    "title": "CORE: A Few-Shot Company Relation Classification Dataset for Robust Domain Adaptation",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.722",
+    "repo": "https://github.com/pnborchert/CORE",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.722.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.12024",
+    "video": null
+  },
+  {
+    "title": "SpEL: Structured Prediction for Entity Linking",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.686",
+    "repo": "https://github.com/shavarani/SpEL",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.686.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.14684",
+    "video": null
+  },
+  {
+    "title": "TIMELINE: Exhaustive Annotation of Temporal Relations Supporting the Automatic Ordering of Events in News Articles",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.1016",
+    "repo": "https://github.com/Alsayyahi/TIMELINE",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.1016.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.17802",
+    "video": null
+  }
+]

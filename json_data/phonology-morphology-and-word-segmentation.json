@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Cognate Transformer for Automated Phonological Reconstruction and Cognate Reflex Prediction",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.423",
+    "repo": "https://github.com/mahesh-ak/CognateTransformer",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.423.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.07487",
+    "video": null
+  },
+  {
+    "title": "Understanding Compositional Data Augmentation in Typologically Diverse Morphological Inflection",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.19",
+    "repo": "https://github.com/smfsamir/understanding-augmentation-morphology",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.19.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.13658",
+    "video": null
+  },
+  {
+    "title": "TopWORDS-Poetry: Simultaneous Text Segmentation and Word Discovery for Classical Chinese Poetry via Bayesian Inference",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.205",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.205.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Improved Unsupervised Chinese Word Segmentation using Pre-Trained Knowledge and Pseudo-Labeling Transfer",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.564",
+    "repo": "https://github.com/IKMLab/ImprovedUCWS-KnowledgeTransfer",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.564.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Exploring Linguistic Probes for Morphological Inflection",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.552",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.552.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.13686",
+    "video": null
+  }
+]

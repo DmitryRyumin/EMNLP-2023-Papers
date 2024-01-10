@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Information Value: Measuring Utterance Predictability as Distance from Plausible Alternatives",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.343",
+    "repo": "https://github.com/dmg-illc/information-value",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.343.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.13676",
+    "video": null
+  },
+  {
+    "title": "Addressing Linguistic Bias through a Contrastive Analysis of Academic Writing in the NLP Domain",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.1042",
+    "repo": "https://github.com/robert1ridley/linguisticBias",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.1042.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "The Neural Dynamics of Word Recognition and Integration",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.62",
+    "repo": "https://github.com/hans/word-recognition-and-integration",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.62.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.13388",
+    "video": null
+  },
+  {
+    "title": "Quantifying the Redundancy between Prosody and Text",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.606",
+    "repo": "https://github.com/lu-wo/quantifying-redundancy",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.606.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2311.17233",
+    "video": null
+  },
+  {
+    "title": "Interpreting and Exploiting Functional Specialization in Multi-Head Attention under Multi-Task Learning",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.1026",
+    "repo": "https://github.com/ZNLP/FunctionalSpecializationInMHA",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.1026.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.10318",
+    "video": null
+  },
+  {
+    "title": "Assessing the Influence of Attractor-Verb Distance on Grammatical Agreement in Humans and Language Models",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.998",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.998.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2311.16978",
+    "video": null
+  }
+]

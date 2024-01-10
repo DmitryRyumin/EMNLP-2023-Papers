@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Dissecting Recall of Factual Associations in Auto-Regressive Language Models",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.751",
+    "repo": null,
+    "web_page": null,
+    "github_page": "https://github.com/google-research/google-research/tree/master/dissecting_factual_predictions",
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.751.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2304.14767",
+    "video": null
+  },
+  {
+    "title": "Interpreting Embedding Spaces by Conceptualization",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.106",
+    "repo": "https://github.com/adiSimhi/Interpreting-Embedding-Spaces-by-Conceptualization",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.106.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2209.00445",
+    "video": null
+  },
+  {
+    "title": "Norm of Word Embedding Encodes Information Gain",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.131",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.131.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2212.09663",
+    "video": null
+  },
+  {
+    "title": "Assessing Step-by-Step Reasoning against Lexical Negation: A Case Study on Syllogism",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.912",
+    "repo": "https://github.com/muyo8692/stepbystep-reasoning-vs-negation",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.912.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.14868",
+    "video": null
+  },
+  {
+    "title": "Can LLMs Facilitate Interpretation of Pre-Trained Language Models?",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.196",
+    "repo": null,
+    "web_page": null,
+    "github_page": "https://neurox.qcri.org/projects/transformers-concept-net/",
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.196.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.13386",
+    "video": null
+  },
+  {
+    "title": "Can You Follow Me? Testing Situational Understanding for ChatGPT",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.394",
+    "repo": "https://github.com/yangalan123/SituationalTesting",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.394.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.16135",
+    "video": null
+  },
+  {
+    "title": "Absolute Position Embedding Learns Sinusoid-Like Waves for Attention based on Relative Position",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.2",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.2.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Statistical Depth for Ranking and Characterizing Transformer-based Text Embeddings",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.596",
+    "repo": "https://github.com/pkseeg/tte_depth",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.596.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.15010",
+    "video": null
+  },
+  {
+    "title": "Explaining Interactions between Text Spans",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.783",
+    "repo": "https://github.com/copenlu/spanex",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.783.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.13506",
+    "video": null
+  },
+  {
+    "title": "Bridging Information-Theoretic and Geometric Compression in Language Models",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.762",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.762.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.13620",
+    "video": null
+  },
+  {
+    "title": "What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.887",
+    "repo": "https://github.com/dmg-illc/nlg-uncertainty-probes",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.887.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.11707",
+    "video": null
+  },
+  {
+    "title": "Data Factors for Better Compositional Generalization",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.898",
+    "repo": "https://github.com/owenzx/data4comp",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.898.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2311.04420",
+    "video": null
+  }
+]

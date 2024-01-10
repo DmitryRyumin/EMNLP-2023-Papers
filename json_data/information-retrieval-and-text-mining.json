@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Hybrid Inverted Index is a Robust Accelerator for Dense Retrieval",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.116",
+    "repo": null,
+    "web_page": null,
+    "github_page": "https://github.com/namespace-Pt/Adon/tree/HI2",
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.116.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2210.05521",
+    "video": null
+  },
+  {
+    "title": "Robust Prompt Optimization for Large Language Models Against Distribution Shifts",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.95",
+    "repo": "https://github.com/li-moxin/GPO",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.95.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.13954",
+    "video": null
+  },
+  {
+    "title": "WSDMS: Debunk Fake News via Weakly Supervised Detection of Misinforming Sentences with Contextualized Social Wisdom",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.94",
+    "repo": "https://github.com/HKBUNLP/WSDMS-EMNLP2023",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.94.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.16579",
+    "video": null
+  },
+  {
+    "title": "Learning to Describe for Predicting Zero-Shot Drug-Drug Interactions",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.918",
+    "repo": "https://github.com/zhufq00/DDIs-Prediction",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.918.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.923",
+    "repo": "https://github.com/sunnweiwei/RankGPT",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.923.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2304.09542",
+    "video": null
+  },
+  {
+    "title": "Goal-Driven Explainable Clustering via Language Descriptions",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.657",
+    "repo": "https://github.com/ZihanWangKi/GoalEx",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.657.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.13749",
+    "video": null
+  }
+]

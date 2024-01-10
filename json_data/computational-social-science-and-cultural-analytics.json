@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Towards Interpretable Mental Health Analysis with Large Language Models",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.370",
+    "repo": "https://github.com/SteveKGYang/MentalLLaMA",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.370.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2304.03347",
+    "video": null
+  },
+  {
+    "title": "A Diachronic Analysis of Paradigm Shifts in NLP Research: When, How, and Why?",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.142",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.142.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "The Skipped Beat: A Study of Sociopragmatic Understanding in LLMs for 64 Languages",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.160",
+    "repo": "https://github.com/UBC-NLP/SPARROW",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.160.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.14557",
+    "video": null
+  },
+  {
+    "title": "Rumor Detection on Social Media with Crowd Intelligence and ChatGPT-Assisted Networks",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.347",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.347.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Cultural Concept Adaptation on Multimodal Reasoning",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.18",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.18.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Reformulating NLP tasks to Capture Longitudinal Manifestation of Language Disorders in People with Dementia",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.986",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.986.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.09897",
+    "video": null
+  }
+]

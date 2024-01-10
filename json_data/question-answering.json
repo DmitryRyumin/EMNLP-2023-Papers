@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Compressing and Debiasing Vision-Language Pre-Trained Models for Visual Question Answering",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.34",
+    "repo": "https://github.com/PhoebusSi/Compress-Robust-VQA",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.34.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2210.14558",
+    "video": null
+  },
+  {
+    "title": "Merging Generated and Retrieved Knowledge for Open-Domain QA",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.286",
+    "repo": "https://github.com/yunx-z/COMBO",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.286.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.14393",
+    "video": null
+  },
+  {
+    "title": "Diversity Enhanced Narrative Question Generation for Storybooks",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.31",
+    "repo": "https://github.com/hkyoon95/mQG",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.31.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.16446",
+    "video": null
+  },
+  {
+    "title": "The Art of SOCRATIC QUESTIONING: Recursive Thinking with Large Language Models",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.255",
+    "repo": "https://github.com/VT-NLP/SOCRATIC-QUESTIONING",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.255.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.14999",
+    "video": null
+  },
+  {
+    "title": "Once Upon a Time in Graph: Relative-Time Pretraining for Complex Temporal Reasoning",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.728",
+    "repo": "https://github.com/DAMO-NLP-SG/RemeMo",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.728.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.14709",
+    "video": null
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "title": "BasahaCorpus: An Expanded Linguistic Resource for Readability Assessment in Central Philippine Languages",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.388",
+    "repo": "https://github.com/imperialite/BasahaCorpus-HierarchicalCrosslingualARA",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.388.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.11584",
+    "video": null
+  },
+  {
+    "title": "Translating away Translationese without Parallel Data",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.438",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.438.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.18830",
+    "video": null
+  },
+  {
+    "title": "Automatic Transcription of Handwritten Old Occitan Language",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.953",
+    "repo": "https://github.com/EstebanGarces/OcciGen",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.953.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Don't Trust ChatGPT when your Question is not in English: A Study of Multilingual Abilities and Types of LLMs",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.491",
+    "repo": "https://github.com/Senyu-Li/LLM-Multilingual-Types",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.491.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.16339",
+    "video": null
+  },
+  {
+    "title": "Revisiting Machine Translation for Cross-Lingual Classification",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.399",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.399.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.14240",
+    "video": null
+  },
+  {
+    "title": "Language Representation Projection: Can We Transfer Factual Knowledge across Languages in Multilingual Language Models?",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.226",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.226.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Multilingual Large Language Models are Not (Yet) Code-Switchers",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.774",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.774.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.14235",
+    "video": null
+  },
+  {
+    "title": "Cross-Lingual Prompting: Improving Zero-Shot Chain-of-Thought Reasoning across Languages",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.163",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.163.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.14799",
+    "video": null
+  },
+  {
+    "title": "Investigating Bias in Multilingual Language Models: Cross-Lingual Transfer of Debiasing Techniques",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.175",
+    "repo": "https://github.com/manon-reusens/multilingual_bias",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.175.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.10310",
+    "video": null
+  },
+  {
+    "title": "FOCUS: Effective Embedding Initialization for Monolingual Specialization of Multilingual Models",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.829",
+    "repo": "https://github.com/konstantinjdobler/focus",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.829.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.14481",
+    "video": null
+  },
+  {
+    "title": "GPTAraEval: A Comprehensive Evaluation of ChatGPT on Arabic NLP",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.16",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.16.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.14976",
+    "video": null
+  }
+]
