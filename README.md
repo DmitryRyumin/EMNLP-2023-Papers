@@ -17,6 +17,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/dmitryryumin/EMNLP-2023-Papers?style=flat)
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/EMNLP-2023-Papers?style=flat)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FEMNLP-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
+[![Parse Markdown and Generate JSON](https://github.com/DmitryRyumin/EMNLP-2023-Papers/actions/workflows/parse_markdown.yml/badge.svg)](https://github.com/DmitryRyumin/EMNLP-2023-Papers/actions/workflows/parse_markdown.yml)
 
 <!-- 419/2688 -->
 <div style="float:left;">
