@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Learning to Predict Task Transferability via Soft Prompt",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.546",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.546.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Byte Pair Encoding for Symbolic Music",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.123",
+    "repo": "https://github.com/Natooz/bpe-symbolic-music",
+    "web_page": null,
+    "github_page": "https://natooz.github.io/BPE-Symbolic-Music/",
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.123.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2301.11975",
+    "video": null
+  },
+  {
+    "title": "Understanding the Effect of Model Compression on Social Bias in Large Language Models",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.161",
+    "repo": "https://github.com/gsgoncalves/EMNLP2023_llm_compression_and_social_bias",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.161.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2312.05662",
+    "video": null
+  },
+  {
+    "title": "Knowledge Distillation ≈ Label Smoothing: Fact or Fallacy?",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.271",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.271.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "The Framework Tax: Disparities between Inference Efficiency in NLP Research and Deployment",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.98",
+    "repo": "https://github.com/JaredFern/Framework-Tax",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.98.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2302.06117",
+    "video": null
+  },
+  {
+    "title": "Making Large Language Models Better Data Creators",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.948",
+    "repo": "https://github.com/microsoft/llm-data-creation",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.948.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.20111",
+    "video": null
+  },
+  {
+    "title": "APrompt: Attention Prompt Tuning for Efficient Adaptation of Pre-Trained Language Models",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.567",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.567.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Parameter-Efficient Language Model Tuning with Active Learning in Low-Resource Settings",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.307",
+    "repo": "https://github.com/josipjukic/adapter-al",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.307.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.14576",
+    "video": null
+  },
+  {
+    "title": "Merging Experts into One: Improving Computational Efficiency of Mixture of Experts",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.907",
+    "repo": "https://github.com/Shwai-He/MEO",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.907.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.09832",
+    "video": null
+  },
+  {
+    "title": "Selective Labeling: How to Radically Lower Data-Labeling Costs for Document Extraction Models",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.233",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.233.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Focus Your Attention (with Adaptive IIR Filters)",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.772",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.772.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.14952",
+    "video": null
+  },
+  {
+    "title": "Let’s Sample Step by Step: Adaptive-Consistency for Efficient Reasoning and Coding with LLMs",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.761",
+    "repo": "https://github.com/Pranjal2041/AdaptiveConsistency",
+    "web_page": "https://sample-step-by-step.info/",
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.761.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.11860",
+    "video": null
+  }
+]

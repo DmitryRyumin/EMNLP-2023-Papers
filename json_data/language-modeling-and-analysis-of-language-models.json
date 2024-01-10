@@ -1,0 +1,112 @@
+[
+  {
+    "title": "FActScore: Fine-Grained Atomic Evaluation of Factual Precision in Long Form Text Generation",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.741",
+    "repo": "https://github.com/shmsw25/FActScore",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.741.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.14251",
+    "video": null
+  },
+  {
+    "title": "ViSoBERT: A Pre-Trained Language Model for Vietnamese Social Media Text Processing",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.315",
+    "repo": "https://github.com/uitnlp/ViSoBERT",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.315.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.11166",
+    "video": null
+  },
+  {
+    "title": "Navigating the Grey Area: How Expressions of Uncertainty and Overconfidence Affect Language Models",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.335",
+    "repo": "https://github.com/katezhou/navigating_the_grey",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.335.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2302.13439",
+    "video": null
+  },
+  {
+    "title": "CodeT5+: Open Code Large Language Models for Code Understanding and Generation",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.68",
+    "repo": "https://github.com/salesforce/CodeT5",
+    "web_page": null,
+    "github_page": "https://github.com/salesforce/CodeT5/tree/main/CodeT5+",
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.68.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.07922",
+    "video": null
+  },
+  {
+    "title": "MAGNIFICo: Evaluating the In-Context Learning Ability of Large Language Models to Generalize to Novel Interpretations",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.134",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.134.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.11634",
+    "video": null
+  },
+  {
+    "title": "CombLM: Adapting Black-Box Language Models through Small Fine-Tuned Models",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.180",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.180.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.16876",
+    "video": null
+  },
+  {
+    "title": "Inverse Scaling Can Become U-Shaped",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.963",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.963.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2211.02011",
+    "video": null
+  },
+  {
+    "title": "Revisiting Instruction Fine-Tuned Model Evaluation to Guide Industrial Applications",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.559",
+    "repo": "https://github.com/ManuelFay/IFTEval",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.559.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.14103",
+    "video": null
+  },
+  {
+    "title": "FinGPT: Large Generative Models for a Small Language",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.164",
+    "repo": null,
+    "web_page": "https://turkunlp.org/gpt3-finnish",
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.164.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2311.05640",
+    "video": null
+  },
+  {
+    "title": "Consistency Analysis of ChatGPT",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.991",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.991.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2303.06273",
+    "video": null
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "title": "Structure-Aware Knowledge Graph-to-Text Generation with Planning Selection and Similarity Distinction",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.537",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.537.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Granularity Matters: Pathological Graph-Driven Cross-Modal Alignment for Brain CT Report Generation",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.408",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.408.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Improving Image Captioning via Predicting Structured Concepts",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.25",
+    "repo": "https://github.com/wangting0/SCP-WGCN",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.25.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2311.08223",
+    "video": null
+  },
+  {
+    "title": "CodeFusion: A Pre-Trained Diffusion Model for Code Generation",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.716",
+    "repo": null,
+    "web_page": null,
+    "github_page": "https://github.com/microsoft/prose-benchmarks/tree/main/CodeFusion",
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.716.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.11584",
+    "video": null
+  },
+  {
+    "title": "Look-Back Decoding for Open-Ended Text Generation",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.66",
+    "repo": "https://github.com/xunannancy/LookBackDecoding",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.66.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.13477",
+    "video": null
+  },
+  {
+    "title": "MULTITuDE: Large-Scale Multilingual Machine-Generated Text Detection Benchmark",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.616",
+    "repo": "https://github.com/kinit-sk/mgt-detection-benchmark",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.616.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.13606",
+    "video": null
+  },
+  {
+    "title": "Active Learning for Natural Language Generation",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.611",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.611.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.15040",
+    "video": null
+  },
+  {
+    "title": "Interactive Text Generation",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.270",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.270.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "INSTRUCTSCORE: Towards Explainable Text Generation Evaluation with Automatic Feedback",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.365",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.365.pdf",
+    "paper_arxiv": null,
+    "video": "https://www.youtube.com/watch?v=YKJLKz1w36s"
+  },
+  {
+    "title": "Pre-Training Language Models for Comparative Reasoning",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.763",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.763.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.14457",
+    "video": null
+  },
+  {
+    "title": "Composable Text Controls in Latent Space with ODEs",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.1030",
+    "repo": "https://github.com/guangyliu/LatentOps",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.1030.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2208.00638",
+    "video": null
+  }
+]

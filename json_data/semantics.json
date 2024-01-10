@@ -1,0 +1,134 @@
+[
+  {
+    "title": "WiCE: Real-World Entailment for Claims in Wikipedia",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.470",
+    "repo": "https://github.com/ryokamoi/wice",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.470.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2303.01432",
+    "video": null
+  },
+  {
+    "title": "Understanding Computational Models of Semantic Change: New Insights from the Speech Community",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.572",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.572.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "What do Deck Chairs and Sun Hats Have in Common? Uncovering Shared Properties in Large Concept Vocabularies",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.654",
+    "repo": "https://github.com/amitgajbhiye/concept_commonality",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.654.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.14793",
+    "video": null
+  },
+  {
+    "title": "AdaSent: Efficient Domain-Adapted Sentence Embeddings for Few-Shot Classification",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.208",
+    "repo": "https://github.com/UKPLab/AdaSent",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.208.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2311.00408",
+    "video": null
+  },
+  {
+    "title": "Ditto: A Simple and Efficient Approach to Improve Sentence Embeddings",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.359",
+    "repo": "https://github.com/alibaba-damo-academy/SpokenNLP",
+    "web_page": null,
+    "github_page": "https://github.com/alibaba-damo-academy/SpokenNLP/tree/main/ditto",
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.359.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.10786",
+    "video": null
+  },
+  {
+    "title": "Connecting Degree and Polarity: An Artificial Language Learning Study",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.938",
+    "repo": "https://github.com/altsoph/artificial_degree_modifiers",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.938.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2109.06333",
+    "video": null
+  },
+  {
+    "title": "On Bilingual Lexicon Induction with Large Language Models",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.595",
+    "repo": "https://github.com/cambridgeltl/prompt4bli",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.595.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.13995",
+    "video": null
+  },
+  {
+    "title": "Random Entity Quantization for Parameter-Efficient Compositional Knowledge Graph Representation",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.177",
+    "repo": "https://github.com/JiaangL/RandomQuantization",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.177.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.15797",
+    "video": null
+  },
+  {
+    "title": "Systematic Word Meta-Sense Extension",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.675",
+    "repo": "https://github.com/jadeleiyu/sworme",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.675.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2311.13029",
+    "video": null
+  },
+  {
+    "title": "Pragmatic Reasoning Unlocks Quantifier Semantics for Foundation Models",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.38",
+    "repo": "https://github.com/Nativeatom/PRESQUE",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.38.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2311.04659",
+    "video": null
+  },
+  {
+    "title": "Non-Programmers Can Label Programs Indirectly via Active Examples: A Case Study with Text-to-SQL",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.312",
+    "repo": "https://github.com/ruiqi-zhong/EMNLP23-APEL",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.312.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2205.12422",
+    "video": null
+  },
+  {
+    "title": "Improving Language Models' Meaning Understanding and Consistency by Learning Conceptual Roles from Dictionary",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.527",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.527.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.15541",
+    "video": null
+  }
+]

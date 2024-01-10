@@ -1,0 +1,134 @@
+[
+  {
+    "title": "HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.397",
+    "repo": "https://github.com/RUCAIBox/HaluEval",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.397.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.11747",
+    "video": null
+  },
+  {
+    "title": "TRIGO: Benchmarking Formal Mathematical Proof Reduction for Generative Language Models",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.711",
+    "repo": "https://github.com/menik1126/TRIGO",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.711.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.10180",
+    "video": null
+  },
+  {
+    "title": "BanglaAbuseMeme: A Dataset for Bengali Abusive Meme Classification",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.959",
+    "repo": "https://github.com/hate-alert/BanglaAbuseMeme",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.959.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.11748",
+    "video": null
+  },
+  {
+    "title": "IDTraffickers: An Authorship Attribution Dataset to Link and Connect Potential Human-Trafficking Operations on Text Escort Advertisements",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.524",
+    "repo": "https://github.com/maastrichtlawtech/IDTraffickers",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.524.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.05484",
+    "video": null
+  },
+  {
+    "title": "This is not a Dataset: A Large Negation Benchmark to Challenge Large Language Models",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.531",
+    "repo": "https://github.com/hitz-zentroa/This-is-not-a-Dataset",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.531.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.15941",
+    "video": null
+  },
+  {
+    "title": "You Told Me That Joke Twice: A Systematic Investigation of Transferability and Robustness of Humor Detection Models",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.845",
+    "repo": "https://github.com/Humor-Research/Humor-detection",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.845.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Unveiling the Essence of Poetry: Introducing a Comprehensive Dataset and Benchmark for Poem Summarization",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.920",
+    "repo": "https://github.com/Ridwan230/PoemSum",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.920.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Do LLMs Understand Social Knowledge? Evaluating the Sociability of Large Language Models with SocKET Benchmark",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.699",
+    "repo": "https://github.com/minjechoi/SOCKET",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.699.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.14938",
+    "video": null
+  },
+  {
+    "title": "It Ain't Over: A Multi-Aspect Diverse Math Word Problem Dataset",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.927",
+    "repo": "https://github.com/JiwooKimAR/dmath",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.927.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Syllogistic Reasoning for Legal Judgment Analysis",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.864",
+    "repo": "https://github.com/dengwentao99/SLJA",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.864.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "TempTabQA: Temporal Question Answering for Semi-Structured Tables",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.149",
+    "repo": "https://github.com/TempTabQA/temptabqa",
+    "web_page": null,
+    "github_page": "https://temptabqa.github.io/",
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.149.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2311.08002",
+    "video": null
+  },
+  {
+    "title": "Multilingual Previously Fact-Checked Claim Retrieval",
+    "title_page": "https://aclanthology.org/2023.emnlp-main.1027",
+    "repo": "https://github.com/kinit-sk/multiclaim",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.1027.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.07991",
+    "video": null
+  }
+]
