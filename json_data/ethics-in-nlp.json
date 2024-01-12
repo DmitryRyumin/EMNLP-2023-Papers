@@ -6,7 +6,7 @@
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.264.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.264.pdf",
     "paper_arxiv": null,
     "video": null
   },
@@ -17,7 +17,7 @@
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.213.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.213.pdf",
     "paper_arxiv": null,
     "video": null
   },
@@ -28,7 +28,7 @@
     "web_page": null,
     "github_page": "https://github.com/facebookresearch/ResponsibleNLP/tree/main/robbie",
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.230.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.230.pdf",
     "paper_arxiv": "http://arxiv.org/abs/2311.18140",
     "video": null
   },
@@ -39,7 +39,7 @@
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.797.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.797.pdf",
     "paper_arxiv": "http://arxiv.org/abs/2310.14870",
     "video": "https://www.youtube.com/watch?v=NkarThse4dU"
   },
@@ -50,7 +50,7 @@
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.697.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.697.pdf",
     "paper_arxiv": null,
     "video": null
   },
@@ -61,7 +61,7 @@
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.458.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.458.pdf",
     "paper_arxiv": "http://arxiv.org/abs/2310.13771",
     "video": null
   }

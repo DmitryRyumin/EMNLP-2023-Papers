@@ -6,7 +6,7 @@
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.854.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.854.pdf",
     "paper_arxiv": "http://arxiv.org/abs/2305.14280",
     "video": null
   },
@@ -17,7 +17,7 @@
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.314.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.314.pdf",
     "paper_arxiv": "http://arxiv.org/abs/2310.14883",
     "video": null
   },
@@ -28,7 +28,7 @@
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.922.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.922.pdf",
     "paper_arxiv": "http://arxiv.org/abs/2310.11163",
     "video": null
   },
@@ -39,7 +39,7 @@
     "web_page": null,
     "github_page": "https://github.com/hlt-mt/FBK-fairseq/blob/master/fbk_works/SHALLOW_FUSION_GENDER_BIAS.md",
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.705.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.705.pdf",
     "paper_arxiv": "http://arxiv.org/abs/2310.15752",
     "video": null
   },
@@ -50,7 +50,7 @@
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.933.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.933.pdf",
     "paper_arxiv": "http://arxiv.org/abs/2310.07081",
     "video": null
   }

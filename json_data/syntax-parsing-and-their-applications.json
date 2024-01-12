@@ -6,7 +6,7 @@
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.52.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.52.pdf",
     "paper_arxiv": "http://arxiv.org/abs/2305.15057",
     "video": null
   },
@@ -17,7 +17,7 @@
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.393.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.393.pdf",
     "paper_arxiv": "http://arxiv.org/abs/2310.14319",
     "video": null
   },
@@ -28,7 +28,7 @@
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.144.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.144.pdf",
     "paper_arxiv": "http://arxiv.org/abs/2211.16031",
     "video": null
   },
@@ -39,7 +39,7 @@
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.69.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.69.pdf",
     "paper_arxiv": "http://arxiv.org/abs/2310.14124",
     "video": null
   },
@@ -50,7 +50,7 @@
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.934.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.934.pdf",
     "paper_arxiv": "http://arxiv.org/abs/2311.18712",
     "video": null
   },
@@ -61,7 +61,7 @@
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.508.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.508.pdf",
     "paper_arxiv": "http://arxiv.org/abs/2311.02660",
     "video": null
   }

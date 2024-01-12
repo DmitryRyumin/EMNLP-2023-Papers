@@ -6,7 +6,7 @@
     "web_page": null,
     "github_page": "https://nlp4vis.github.io/",
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-tutorial.1.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-tutorial.1.pdf",
     "paper_arxiv": null,
     "video": null
   },
@@ -17,7 +17,7 @@
     "web_page": null,
     "github_page": "https://emnlp2023-nlp-security.github.io/",
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-tutorial.2.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-tutorial.2.pdf",
     "paper_arxiv": null,
     "video": null
   },
@@ -28,7 +28,7 @@
     "web_page": null,
     "github_page": "https://nlp-hci.github.io/tutorial/",
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-tutorial.3.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-tutorial.3.pdf",
     "paper_arxiv": null,
     "video": null
   },
@@ -39,7 +39,7 @@
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-tutorial.4.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-tutorial.4.pdf",
     "paper_arxiv": null,
     "video": null
   },
@@ -50,7 +50,7 @@
     "web_page": null,
     "github_page": "https://llm-harm-mitigation.github.io/tutorial/",
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-tutorial.5.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-tutorial.5.pdf",
     "paper_arxiv": null,
     "video": null
   },
@@ -61,7 +61,7 @@
     "web_page": null,
     "github_page": "https://emnlp2023-creative-nlg.github.io/",
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-tutorial.6.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-tutorial.6.pdf",
     "paper_arxiv": null,
     "video": null
   }
