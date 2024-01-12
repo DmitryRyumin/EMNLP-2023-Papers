@@ -16,15 +16,19 @@ class FileUpdate:
         self.content = content
 
 
+repo_full_name = os.getenv("GITHUB_REPOSITORY")
+owner, repo_name = repo_full_name.split("/")
+
+
 class Config:
     GITHUB_TOKEN = os.getenv("INPUT_PAPER_TOKEN") or os.getenv("PAPER_TOKEN")
     GITHUB_WORKSPACE = os.getenv("GITHUB_WORKSPACE", "/github/workspace")
     MARKDOWN_DIRECTORY = "sections"
     OUTPUT_DIRECTORY = "json_data"
-    MARKDOWN_DIRECTORY_LOCAL = "/Users/dl/GitHub/EMNLP-2023-Papers/sections"
-    OUTPUT_DIRECTORY_LOCAL = "/Users/dl/GitHub/EMNLP-2023-Papers/local_json_data"
-    REPO_OWNER = "DmitryRyumin"
-    REPO_NAME = "EMNLP-2023-Papers"
+    MARKDOWN_DIRECTORY_LOCAL = Path("./sections").resolve()
+    OUTPUT_DIRECTORY_LOCAL = Path("./local_json_data").resolve()
+    REPO_OWNER = owner
+    REPO_NAME = repo_name
     COMMIT_MESSAGE = "Update files"
 
 
@@ -208,10 +212,8 @@ def extract_paper_data(columns):
         )
         demo_page = demo_link["href"] if demo_link else None
 
-        paper_aclanthology_link = columns[2].find("a")
-        paper_aclanthology = (
-            paper_aclanthology_link["href"] if paper_aclanthology_link else None
-        )
+        paper_thecvf_link = columns[2].find("a")
+        paper_thecvf = paper_thecvf_link["href"] if paper_thecvf_link else None
 
         paper_arxiv_link = columns[2].find_all("a")
         paper_arxiv = paper_arxiv_link[1]["href"] if len(paper_arxiv_link) > 1 else None
@@ -226,7 +228,7 @@ def extract_paper_data(columns):
             "web_page": web_page,
             "github_page": github_page,
             "demo_page": demo_page,
-            "paper_aclanthology": paper_aclanthology,
+            "paper_thecvf": paper_thecvf,
             "paper_arxiv": paper_arxiv,
             "video": video,
         }
