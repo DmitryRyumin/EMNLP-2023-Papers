@@ -149,6 +149,11 @@ EMNLP 2023 Papers: A comprehensive collection of cutting-edge research papers pr
         <td colspan="3" align="center"><i>Machine Learning (ML)</i></td>
     </tr>
     <tr>
+        <td>AAAI</td>
+        <td align="center">:heavy_minus_sign:</td>
+        <td align="center"><img src="https://img.shields.io/badge/February-white?logo=github&labelColor=b31b1b" alt="" /></td>
+    </tr>
+    <tr>
         <td>ICLR</td>
         <td align="center">:heavy_minus_sign:</td>
         <td align="center"><img src="https://img.shields.io/badge/May-white?logo=github&labelColor=b31b1b" alt="" /></td>
