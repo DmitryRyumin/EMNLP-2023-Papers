@@ -6,7 +6,7 @@
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.324.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.324.pdf",
     "paper_arxiv": "http://arxiv.org/abs/2310.16329",
     "video": null
   },
@@ -17,7 +17,7 @@
     "web_page": null,
     "github_page": "https://github.com/alibaba-damo-academy/SpokenNLP/tree/main/emnlp2023-topic_segmentation",
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.341.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.341.pdf",
     "paper_arxiv": "http://arxiv.org/abs/2310.11772",
     "video": null
   },
@@ -28,7 +28,7 @@
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.526.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.526.pdf",
     "paper_arxiv": null,
     "video": null
   },
@@ -39,7 +39,7 @@
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.325.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.325.pdf",
     "paper_arxiv": "http://arxiv.org/abs/2310.14520",
     "video": null
   },
@@ -50,7 +50,7 @@
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.704.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.704.pdf",
     "paper_arxiv": "http://arxiv.org/abs/2310.13774",
     "video": null
   },
@@ -61,7 +61,7 @@
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.45.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.45.pdf",
     "paper_arxiv": "http://arxiv.org/abs/2311.00367",
     "video": null
   }

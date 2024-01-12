@@ -6,7 +6,7 @@
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.688.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.688.pdf",
     "paper_arxiv": "http://arxiv.org/abs/2303.15714",
     "video": null
   },
@@ -17,7 +17,7 @@
     "web_page": null,
     "github_page": "https://ibm.github.io/model-recycling/",
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.90.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.90.pdf",
     "paper_arxiv": "http://arxiv.org/abs/2211.00107",
     "video": null
   },
@@ -28,7 +28,7 @@
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.978.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.978.pdf",
     "paper_arxiv": "http://arxiv.org/abs/2311.12689",
     "video": null
   },
@@ -39,7 +39,7 @@
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.681.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.681.pdf",
     "paper_arxiv": "http://arxiv.org/abs/2312.03577",
     "video": null
   },
@@ -50,7 +50,7 @@
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_aclanthology": "https://aclanthology.org/2023.emnlp-main.510.pdf",
+    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.510.pdf",
     "paper_arxiv": "http://arxiv.org/abs/2212.09744",
     "video": null
   }
