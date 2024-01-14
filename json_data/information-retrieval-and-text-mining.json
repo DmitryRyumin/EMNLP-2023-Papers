@@ -1,68 +1,80 @@
 [
   {
     "title": "Hybrid Inverted Index is a Robust Accelerator for Dense Retrieval",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.116",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.116",
+    "title_page": "",
     "repo": null,
     "web_page": null,
     "github_page": "https://github.com/namespace-Pt/Adon/tree/HI2",
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.116.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2210.05521",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2210.05521",
+    "youtube_id": null,
+    "section": "Information Retrieval and Text Mining"
   },
   {
     "title": "Robust Prompt Optimization for Large Language Models Against Distribution Shifts",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.95",
-    "repo": "https://github.com/li-moxin/GPO",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.95",
+    "title_page": "",
+    "repo": "li-moxin/GPO",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.95.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2305.13954",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2305.13954",
+    "youtube_id": null,
+    "section": "Information Retrieval and Text Mining"
   },
   {
     "title": "WSDMS: Debunk Fake News via Weakly Supervised Detection of Misinforming Sentences with Contextualized Social Wisdom",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.94",
-    "repo": "https://github.com/HKBUNLP/WSDMS-EMNLP2023",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.94",
+    "title_page": "",
+    "repo": "HKBUNLP/WSDMS-EMNLP2023",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.94.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2310.16579",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2310.16579",
+    "youtube_id": null,
+    "section": "Information Retrieval and Text Mining"
   },
   {
     "title": "Learning to Describe for Predicting Zero-Shot Drug-Drug Interactions",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.918",
-    "repo": "https://github.com/zhufq00/DDIs-Prediction",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.918",
+    "title_page": "",
+    "repo": "zhufq00/DDIs-Prediction",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.918.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Information Retrieval and Text Mining"
   },
   {
     "title": "Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.923",
-    "repo": "https://github.com/sunnweiwei/RankGPT",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.923",
+    "title_page": "",
+    "repo": "sunnweiwei/RankGPT",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.923.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2304.09542",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2304.09542",
+    "youtube_id": null,
+    "section": "Information Retrieval and Text Mining"
   },
   {
     "title": "Goal-Driven Explainable Clustering via Language Descriptions",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.657",
-    "repo": "https://github.com/ZihanWangKi/GoalEx",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.657",
+    "title_page": "",
+    "repo": "ZihanWangKi/GoalEx",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.657.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2305.13749",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2305.13749",
+    "youtube_id": null,
+    "section": "Information Retrieval and Text Mining"
   }
 ]

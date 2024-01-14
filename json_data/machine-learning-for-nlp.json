@@ -1,57 +1,67 @@
 [
   {
     "title": "Explicit Planning Helps Language Models in Logical Reasoning",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.688",
-    "repo": "https://github.com/cindermond/leap",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.688",
+    "title_page": "",
+    "repo": "cindermond/leap",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.688.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2303.15714",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2303.15714",
+    "youtube_id": null,
+    "section": "Machine Learning for NLP"
   },
   {
     "title": "Where to Start? Analyzing the Potential Value of Intermediate Models",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.90",
-    "repo": "https://github.com/IBM/model-recycling",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.90",
+    "title_page": "",
+    "repo": "IBM/model-recycling",
     "web_page": null,
     "github_page": "https://ibm.github.io/model-recycling/",
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.90.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2211.00107",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2211.00107",
+    "youtube_id": null,
+    "section": "Machine Learning for NLP"
   },
   {
     "title": "Fair Text Classification with Wasserstein Independence",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.978",
-    "repo": "https://github.com/LetenoThibaud/wasserstein_fair_classification",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.978",
+    "title_page": "",
+    "repo": "LetenoThibaud/wasserstein_fair_classification",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.978.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2311.12689",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2311.12689",
+    "youtube_id": null,
+    "section": "Machine Learning for NLP"
   },
   {
     "title": "Improving Bias Mitigation through Bias Experts in Natural Language Understanding",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.681",
-    "repo": "https://github.com/jej127/Bias-Experts",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.681",
+    "title_page": "",
+    "repo": "jej127/Bias-Experts",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.681.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2312.03577",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2312.03577",
+    "youtube_id": null,
+    "section": "Machine Learning for NLP"
   },
   {
     "title": "DSI++: Updating Transformer Memory with New Documents",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.510",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.510",
+    "title_page": "",
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.510.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2212.09744",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2212.09744",
+    "youtube_id": null,
+    "section": "Machine Learning for NLP"
   }
 ]

@@ -1,68 +1,80 @@
 [
   {
     "title": "Models See Hallucinations: Evaluating the Factuality in Video Captioning",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.723",
-    "repo": "https://github.com/PKULiuHui/FactVC",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.723",
+    "title_page": "",
+    "repo": "PKULiuHui/FactVC",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.723.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2303.02961",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2303.02961",
+    "youtube_id": null,
+    "section": "Language Grounding to Vision, Robotics and Beyond"
   },
   {
     "title": "Describe Me an Auklet: Generating Grounded Perceptual Category Descriptions",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.580",
-    "repo": "https://github.com/GU-CLASP/describe-me-an-auklet",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.580",
+    "title_page": "",
+    "repo": "GU-CLASP/describe-me-an-auklet",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.580.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Language Grounding to Vision, Robotics and Beyond"
   },
   {
     "title": "Reading Books is Great, but not if You are Driving! Visually Grounded Reasoning about Defeasible Commonsense Norms",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.57",
-    "repo": "https://github.com/wade3han/normlens",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.57",
+    "title_page": "",
+    "repo": "wade3han/normlens",
     "web_page": "https://seungjuhan.me/normlens/",
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.57.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2310.10418",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2310.10418",
+    "youtube_id": null,
+    "section": "Language Grounding to Vision, Robotics and Beyond"
   },
   {
     "title": "Bridging the Digital Divide: Performance Variation across Socio-Economic Factors in Vision-Language Models",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.660",
-    "repo": "https://github.com/MichiganNLP/Bridging_the_Digital_Divide",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.660",
+    "title_page": "",
+    "repo": "MichiganNLP/Bridging_the_Digital_Divide",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.660.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2311.05746",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2311.05746",
+    "youtube_id": null,
+    "section": "Language Grounding to Vision, Robotics and Beyond"
   },
   {
     "title": "3DRP-Net: 3D Relative Position-Aware Network for 3D Visual Grounding",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.656",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.656",
+    "title_page": "",
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.656.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2307.13363",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2307.13363",
+    "youtube_id": null,
+    "section": "Language Grounding to Vision, Robotics and Beyond"
   },
   {
     "title": "Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.304",
-    "repo": "https://github.com/PlusLabNLP/ENVISION",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.304",
+    "title_page": "",
+    "repo": "PlusLabNLP/ENVISION",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.304.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2310.15066",
-    "video": "https://www.youtube.com/watch?v=t_yDXUriRZo"
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2310.15066",
+    "youtube_id": "t_yDXUriRZo",
+    "section": "Language Grounding to Vision, Robotics and Beyond"
   }
 ]

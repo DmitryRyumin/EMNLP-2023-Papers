@@ -1,68 +1,80 @@
 [
   {
     "title": "Vera: A General-Purpose Plausibility Estimation Model for Commonsense Statements",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.81",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.81",
+    "title_page": "",
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.81.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2305.03695",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2305.03695",
+    "youtube_id": null,
+    "section": "Commonsense Reasoning"
   },
   {
     "title": "Crystal: Introspective Reasoners Reinforced with Self-Feedback",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.708",
-    "repo": "https://github.com/liujch1998/crystal",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.708",
+    "title_page": "",
+    "repo": "liujch1998/crystal",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.708.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2310.04921",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2310.04921",
+    "youtube_id": null,
+    "section": "Commonsense Reasoning"
   },
   {
     "title": "CRoW: Benchmarking Commonsense Reasoning in Real-World Tasks",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.607",
-    "repo": "https://github.com/mismayil/crow",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.607",
+    "title_page": "",
+    "repo": "mismayil/crow",
     "web_page": "https://www.mete.is/crow/",
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.607.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2310.15239",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2310.15239",
+    "youtube_id": null,
+    "section": "Commonsense Reasoning"
   },
   {
     "title": "DialCoT Meets PPO: Decomposing and Exploring Reasoning Paths in Smaller Language Models",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.501",
-    "repo": "https://github.com/hccngu/DialCoT",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.501",
+    "title_page": "",
+    "repo": "hccngu/DialCoT",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.501.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2310.05074",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2310.05074",
+    "youtube_id": null,
+    "section": "Commonsense Reasoning"
   },
   {
     "title": "GD-COMET: A Geo-Diverse Commonsense Inference Model",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.496",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.496",
+    "title_page": "",
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.496.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2310.15383",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2310.15383",
+    "youtube_id": null,
+    "section": "Commonsense Reasoning"
   },
   {
     "title": "Large Language Models can Self-Improve",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.67",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.67",
+    "title_page": "",
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.67.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Commonsense Reasoning"
   }
 ]

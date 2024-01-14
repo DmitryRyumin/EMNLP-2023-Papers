@@ -1,68 +1,80 @@
 [
   {
     "title": "Towards Interpretable Mental Health Analysis with Large Language Models",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.370",
-    "repo": "https://github.com/SteveKGYang/MentalLLaMA",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.370",
+    "title_page": "",
+    "repo": "SteveKGYang/MentalLLaMA",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.370.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2304.03347",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2304.03347",
+    "youtube_id": null,
+    "section": "Computational Social Science and Cultural Analytics"
   },
   {
     "title": "A Diachronic Analysis of Paradigm Shifts in NLP Research: When, How, and Why?",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.142",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.142",
+    "title_page": "",
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.142.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Computational Social Science and Cultural Analytics"
   },
   {
     "title": "The Skipped Beat: A Study of Sociopragmatic Understanding in LLMs for 64 Languages",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.160",
-    "repo": "https://github.com/UBC-NLP/SPARROW",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.160",
+    "title_page": "",
+    "repo": "UBC-NLP/SPARROW",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.160.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2310.14557",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2310.14557",
+    "youtube_id": null,
+    "section": "Computational Social Science and Cultural Analytics"
   },
   {
     "title": "Rumor Detection on Social Media with Crowd Intelligence and ChatGPT-Assisted Networks",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.347",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.347",
+    "title_page": "",
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.347.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Computational Social Science and Cultural Analytics"
   },
   {
     "title": "Cultural Concept Adaptation on Multimodal Reasoning",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.18",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.18",
+    "title_page": "",
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.18.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Computational Social Science and Cultural Analytics"
   },
   {
     "title": "Reformulating NLP tasks to Capture Longitudinal Manifestation of Language Disorders in People with Dementia",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.986",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.986",
+    "title_page": "",
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.986.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2310.09897",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2310.09897",
+    "youtube_id": null,
+    "section": "Computational Social Science and Cultural Analytics"
   }
 ]

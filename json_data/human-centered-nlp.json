@@ -1,68 +1,80 @@
 [
   {
     "title": "Modeling Empathic Similarity in Personal Narratives",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.383",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.383",
+    "title_page": "",
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.383.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2305.14246",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2305.14246",
+    "youtube_id": null,
+    "section": "Human-Centered NLP"
   },
   {
     "title": "A Diachronic Perspective on User Trust in AI under Uncertainty",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.339",
-    "repo": "https://github.com/zouharvi/trust-intervention",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.339",
+    "title_page": "",
+    "repo": "zouharvi/trust-intervention",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.339.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2310.13544",
-    "video": "https://www.youtube.com/watch?v=NrH3flpijDw"
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2310.13544",
+    "youtube_id": "NrH3flpijDw",
+    "section": "Human-Centered NLP"
   },
   {
     "title": "Dr ChatGPT Tell Me what I Want to Hear: How Different Prompts Impact Health Answer Correctness",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.928",
-    "repo": "https://github.com/ielab/drchatgpt-health_prompting",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.928",
+    "title_page": "",
+    "repo": "ielab/drchatgpt-health_prompting",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.928.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Human-Centered NLP"
   },
   {
     "title": "Pre-Trained Language Models Augmented with Synthetic Scanpaths for Natural Language Understanding",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.400",
-    "repo": "https://github.com/aeye-lab/EMNLP-SyntheticScanpaths-NLU-PretrainedLM",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.400",
+    "title_page": "",
+    "repo": "aeye-lab/EMNLP-SyntheticScanpaths-NLU-PretrainedLM",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.400.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2310.14676",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2310.14676",
+    "youtube_id": null,
+    "section": "Human-Centered NLP"
   },
   {
     "title": "Generating and Evaluating Tests for K-12 Students with Language Model Simulations: A Case Study on Sentence Reading Efficiency",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.135",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.135",
+    "title_page": "",
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.135.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2310.06837",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2310.06837",
+    "youtube_id": null,
+    "section": "Human-Centered NLP"
   },
   {
     "title": "\"Fifty Shades of Bias\": Normative Ratings of Gender Bias in GPT Generated English Text",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.115",
-    "repo": "https://github.com/hadarishav/FiftyShadesofBias",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.115",
+    "title_page": "",
+    "repo": "hadarishav/FiftyShadesofBias",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.115.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2310.17428",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2310.17428",
+    "youtube_id": null,
+    "section": "Human-Centered NLP"
   }
 ]

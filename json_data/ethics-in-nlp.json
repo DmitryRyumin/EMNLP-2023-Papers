@@ -1,68 +1,80 @@
 [
   {
     "title": "TrojanSQL: SQL Injection against Natural Language Interface to Database",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.264",
-    "repo": "https://github.com/jc-ryan/trojan-sql",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.264",
+    "title_page": "",
+    "repo": "jc-ryan/trojan-sql",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.264.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Ethics in NLP"
   },
   {
     "title": "ToViLaG: Your Visual-Language Generative Model is also an Evildoer",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.213",
-    "repo": "https://github.com/victorup/ToViLaG",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.213",
+    "title_page": "",
+    "repo": "victorup/ToViLaG",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.213.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Ethics in NLP"
   },
   {
     "title": "ROBBIE: Robust Bias Evaluation of Large Generative Language Models",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.230",
-    "repo": "https://github.com/facebookresearch/ResponsibleNLP",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.230",
+    "title_page": "",
+    "repo": "facebookresearch/ResponsibleNLP",
     "web_page": null,
     "github_page": "https://github.com/facebookresearch/ResponsibleNLP/tree/main/robbie",
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.230.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2311.18140",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2311.18140",
+    "youtube_id": null,
+    "section": "Ethics in NLP"
   },
   {
     "title": "We are Who We Cite: Bridges of Influence between Natural Language Processing and other Academic Fields",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.797",
-    "repo": "https://github.com/jpwahle/emnlp23-citation-field-influence",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.797",
+    "title_page": "",
+    "repo": "jpwahle/emnlp23-citation-field-influence",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.797.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2310.14870",
-    "video": "https://www.youtube.com/watch?v=NkarThse4dU"
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2310.14870",
+    "youtube_id": "NkarThse4dU",
+    "section": "Ethics in NLP"
   },
   {
     "title": "Deciphering Stereotypes in Pre-Trained Language Models",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.697",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.697",
+    "title_page": "",
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.697.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Ethics in NLP"
   },
   {
     "title": "Copyright Violations and Large Language Models",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.458",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.458",
+    "title_page": "",
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.458.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2310.13771",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2310.13771",
+    "youtube_id": null,
+    "section": "Ethics in NLP"
   }
 ]

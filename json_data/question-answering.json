@@ -1,57 +1,67 @@
 [
   {
     "title": "Compressing and Debiasing Vision-Language Pre-Trained Models for Visual Question Answering",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.34",
-    "repo": "https://github.com/PhoebusSi/Compress-Robust-VQA",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.34",
+    "title_page": "",
+    "repo": "PhoebusSi/Compress-Robust-VQA",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.34.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2210.14558",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2210.14558",
+    "youtube_id": null,
+    "section": "Question Answering"
   },
   {
     "title": "Merging Generated and Retrieved Knowledge for Open-Domain QA",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.286",
-    "repo": "https://github.com/yunx-z/COMBO",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.286",
+    "title_page": "",
+    "repo": "yunx-z/COMBO",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.286.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2310.14393",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2310.14393",
+    "youtube_id": null,
+    "section": "Question Answering"
   },
   {
     "title": "Diversity Enhanced Narrative Question Generation for Storybooks",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.31",
-    "repo": "https://github.com/hkyoon95/mQG",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.31",
+    "title_page": "",
+    "repo": "hkyoon95/mQG",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.31.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2310.16446",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2310.16446",
+    "youtube_id": null,
+    "section": "Question Answering"
   },
   {
     "title": "The Art of SOCRATIC QUESTIONING: Recursive Thinking with Large Language Models",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.255",
-    "repo": "https://github.com/VT-NLP/SOCRATIC-QUESTIONING",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.255",
+    "title_page": "",
+    "repo": "VT-NLP/SOCRATIC-QUESTIONING",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.255.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2305.14999",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2305.14999",
+    "youtube_id": null,
+    "section": "Question Answering"
   },
   {
     "title": "Once Upon a Time in Graph: Relative-Time Pretraining for Complex Temporal Reasoning",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.728",
-    "repo": "https://github.com/DAMO-NLP-SG/RemeMo",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.728",
+    "title_page": "",
+    "repo": "DAMO-NLP-SG/RemeMo",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.728.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2310.14709",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2310.14709",
+    "youtube_id": null,
+    "section": "Question Answering"
   }
 ]

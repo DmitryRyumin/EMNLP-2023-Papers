@@ -1,68 +1,80 @@
 [
   {
     "title": "Linear-Time Modeling of Linguistic Structure: An Order-Theoretic Perspective",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.52",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.52",
+    "title_page": "",
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.52.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2305.15057",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2305.15057",
+    "youtube_id": null,
+    "section": "Syntax, Parsing and their Applications"
   },
   {
     "title": "4 and 7-bit Labeling for Projective and Non-Projective Dependency Trees",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.393",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.393",
+    "title_page": "",
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.393.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2310.14319",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2310.14319",
+    "youtube_id": null,
+    "section": "Syntax, Parsing and their Applications"
   },
   {
     "title": "Syntactic Substitutability as Unsupervised Dependency Syntax",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.144",
-    "repo": "https://github.com/McGill-NLP/syntactic-substitutability",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.144",
+    "title_page": "",
+    "repo": "McGill-NLP/syntactic-substitutability",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.144.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2211.16031",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2211.16031",
+    "youtube_id": null,
+    "section": "Syntax, Parsing and their Applications"
   },
   {
     "title": "Structural Generalization in COGS: Supertagging is (Almost) All You Need",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.69",
-    "repo": "https://github.com/alban-petit/semantic-supertag-parser",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.69",
+    "title_page": "",
+    "repo": "alban-petit/semantic-supertag-parser",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.69.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2310.14124",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2310.14124",
+    "youtube_id": null,
+    "section": "Syntax, Parsing and their Applications"
   },
   {
     "title": "CoRec: An Easy Approach for Coordination Recognition",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.934",
-    "repo": "https://github.com/qingwang-isu/CoRec",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.934",
+    "title_page": "",
+    "repo": "qingwang-isu/CoRec",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.934.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2311.18712",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2311.18712",
+    "youtube_id": null,
+    "section": "Syntax, Parsing and their Applications"
   },
   {
     "title": "LLM-Enhanced Self-Training for Cross-Domain Constituency Parsing",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.508",
-    "repo": "https://github.com/jianlingl/LLM_ST_ConstParsing",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.508",
+    "title_page": "",
+    "repo": "jianlingl/LLM_ST_ConstParsing",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.508.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2311.02660",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2311.02660",
+    "youtube_id": null,
+    "section": "Syntax, Parsing and their Applications"
   }
 ]

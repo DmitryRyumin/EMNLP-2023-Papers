@@ -1,57 +1,67 @@
 [
   {
     "title": "Multilingual Pixel Representations for Translation and Effective Cross-Lingual Transfer",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.854",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.854",
+    "title_page": "",
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.854.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2305.14280",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2305.14280",
+    "youtube_id": null,
+    "section": "Machine Translation"
   },
   {
     "title": "Non-Autoregressive Streaming Transformer for Simultaneous Translation",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.314",
-    "repo": "https://github.com/ictnlp/NAST",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.314",
+    "title_page": "",
+    "repo": "ictnlp/NAST",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.314.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2310.14883",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2310.14883",
+    "youtube_id": null,
+    "section": "Machine Translation"
   },
   {
     "title": "IMTLab: An Open-Source Platform for Building, Evaluating, and Diagnosing Interactive Machine Translation Systems",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.922",
-    "repo": "https://github.com/xuuHuang/IMTLab",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.922",
+    "title_page": "",
+    "repo": "xuuHuang/IMTLab",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.922.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2310.11163",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2310.11163",
+    "youtube_id": null,
+    "section": "Machine Translation"
   },
   {
     "title": "Integrating Language Models into Direct Speech Translation: An Inference-Time Solution to Control Gender Inflection",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.705",
-    "repo": "https://github.com/hlt-mt/FBK-fairseq",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.705",
+    "title_page": "",
+    "repo": "hlt-mt/FBK-fairseq",
     "web_page": null,
     "github_page": "https://github.com/hlt-mt/FBK-fairseq/blob/master/fbk_works/SHALLOW_FUSION_GENDER_BIAS.md",
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.705.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2310.15752",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2310.15752",
+    "youtube_id": null,
+    "section": "Machine Translation"
   },
   {
     "title": "Crossing the Threshold: Idiomatic Machine Translation through Retrieval Augmentation and Loss Weighting",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.933",
-    "repo": "https://github.com/nightingal3/idiom-translation",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.933",
+    "title_page": "",
+    "repo": "nightingal3/idiom-translation",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.933.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2310.07081",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2310.07081",
+    "youtube_id": null,
+    "section": "Machine Translation"
   }
 ]

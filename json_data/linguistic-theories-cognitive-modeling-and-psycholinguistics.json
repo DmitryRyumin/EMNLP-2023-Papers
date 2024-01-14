@@ -1,68 +1,80 @@
 [
   {
     "title": "Information Value: Measuring Utterance Predictability as Distance from Plausible Alternatives",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.343",
-    "repo": "https://github.com/dmg-illc/information-value",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.343",
+    "title_page": "",
+    "repo": "dmg-illc/information-value",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.343.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2310.13676",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2310.13676",
+    "youtube_id": null,
+    "section": "Linguistic Theories, Cognitive Modeling and Psycholinguistics"
   },
   {
     "title": "Addressing Linguistic Bias through a Contrastive Analysis of Academic Writing in the NLP Domain",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.1042",
-    "repo": "https://github.com/robert1ridley/linguisticBias",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.1042",
+    "title_page": "",
+    "repo": "robert1ridley/linguisticBias",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.1042.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Linguistic Theories, Cognitive Modeling and Psycholinguistics"
   },
   {
     "title": "The Neural Dynamics of Word Recognition and Integration",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.62",
-    "repo": "https://github.com/hans/word-recognition-and-integration",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.62",
+    "title_page": "",
+    "repo": "hans/word-recognition-and-integration",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.62.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2305.13388",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2305.13388",
+    "youtube_id": null,
+    "section": "Linguistic Theories, Cognitive Modeling and Psycholinguistics"
   },
   {
     "title": "Quantifying the Redundancy between Prosody and Text",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.606",
-    "repo": "https://github.com/lu-wo/quantifying-redundancy",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.606",
+    "title_page": "",
+    "repo": "lu-wo/quantifying-redundancy",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.606.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2311.17233",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2311.17233",
+    "youtube_id": null,
+    "section": "Linguistic Theories, Cognitive Modeling and Psycholinguistics"
   },
   {
     "title": "Interpreting and Exploiting Functional Specialization in Multi-Head Attention under Multi-Task Learning",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.1026",
-    "repo": "https://github.com/ZNLP/FunctionalSpecializationInMHA",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.1026",
+    "title_page": "",
+    "repo": "ZNLP/FunctionalSpecializationInMHA",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.1026.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2310.10318",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2310.10318",
+    "youtube_id": null,
+    "section": "Linguistic Theories, Cognitive Modeling and Psycholinguistics"
   },
   {
     "title": "Assessing the Influence of Attractor-Verb Distance on Grammatical Agreement in Humans and Language Models",
-    "title_page": "https://aclanthology.org/2023.emnlp-main.998",
+    "base_url": "https://aclanthology.org/2023.emnlp-main.998",
+    "title_page": "",
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-main.998.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2311.16978",
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": "2311.16978",
+    "youtube_id": null,
+    "section": "Linguistic Theories, Cognitive Modeling and Psycholinguistics"
   }
 ]

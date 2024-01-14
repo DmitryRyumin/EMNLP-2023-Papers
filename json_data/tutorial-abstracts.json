@@ -1,68 +1,80 @@
 [
   {
     "title": "NLP+Vis: NLP Meets Visualization",
-    "title_page": "https://aclanthology.org/2023.emnlp-tutorial.1",
+    "base_url": "https://aclanthology.org/2023.emnlp-tutorial.1",
+    "title_page": "",
     "repo": null,
     "web_page": null,
     "github_page": "https://nlp4vis.github.io/",
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-tutorial.1.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Tutorial Abstracts"
   },
   {
     "title": "Security Challenges in Natural Language Processing Models",
-    "title_page": "https://aclanthology.org/2023.emnlp-tutorial.2",
+    "base_url": "https://aclanthology.org/2023.emnlp-tutorial.2",
+    "title_page": "",
     "repo": null,
     "web_page": null,
     "github_page": "https://emnlp2023-nlp-security.github.io/",
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-tutorial.2.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Tutorial Abstracts"
   },
   {
     "title": "Designing, Evaluating, and Learning from Humans Interacting with NLP Models",
-    "title_page": "https://aclanthology.org/2023.emnlp-tutorial.3",
+    "base_url": "https://aclanthology.org/2023.emnlp-tutorial.3",
+    "title_page": "",
     "repo": null,
     "web_page": null,
     "github_page": "https://nlp-hci.github.io/tutorial/",
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-tutorial.3.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Tutorial Abstracts"
   },
   {
     "title": "LLM-Driven Instruction Following: Progresses and Concerns",
-    "title_page": "https://aclanthology.org/2023.emnlp-tutorial.4",
+    "base_url": "https://aclanthology.org/2023.emnlp-tutorial.4",
+    "title_page": "",
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-tutorial.4.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Tutorial Abstracts"
   },
   {
     "title": "Mitigating Societal Harms in Large Language Models",
-    "title_page": "https://aclanthology.org/2023.emnlp-tutorial.5",
+    "base_url": "https://aclanthology.org/2023.emnlp-tutorial.5",
+    "title_page": "",
     "repo": null,
     "web_page": null,
     "github_page": "https://llm-harm-mitigation.github.io/tutorial/",
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-tutorial.5.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Tutorial Abstracts"
   },
   {
     "title": "Creative Natural Language Generation",
-    "title_page": "https://aclanthology.org/2023.emnlp-tutorial.6",
+    "base_url": "https://aclanthology.org/2023.emnlp-tutorial.6",
+    "title_page": "",
     "repo": null,
     "web_page": null,
     "github_page": "https://emnlp2023-creative-nlg.github.io/",
     "demo_page": null,
-    "paper_thecvf": "https://aclanthology.org/2023.emnlp-tutorial.6.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_thecvf": ".pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Tutorial Abstracts"
   }
 ]
