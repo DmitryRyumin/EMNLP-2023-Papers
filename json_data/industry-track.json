@@ -175,7 +175,7 @@
     "section": "Industry Track"
   },
   {
-    "title": "MUST&amp;P-SRL: Multi-Lingual and Unified Syllabification in Text and Phonetic Domains for Speech Representation Learning",
+    "title": "MUST&P-SRL: Multi-Lingual and Unified Syllabification in Text and Phonetic Domains for Speech Representation Learning",
     "base_url": null,
     "title_page": "https://aclanthology.org/2023.emnlp-industry.8",
     "repo": "noetits/MUST_P-SRL",

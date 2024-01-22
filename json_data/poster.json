@@ -525,7 +525,7 @@
     "section": "Poster"
   },
   {
-    "title": "IC3: Image Captioning by Committee Consensus",
+    "title": "IC<sup>3</sup>: Image Captioning by Committee Consensus",
     "base_url": null,
     "title_page": "https://aclanthology.org/2023.emnlp-main.556",
     "repo": "davidmchan/caption-by-committee",
