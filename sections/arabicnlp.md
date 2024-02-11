@@ -16,4 +16,7 @@
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-soon-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-soon-FF0000)
 
-> Will soon be added
+
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| [ArTST: Arabic Text and Speech Transformer](https://aclanthology.org/2023.arabicnlp-1.5/) | [![GitHub](https://img.shields.io/github/stars/mbzuai-nlp/ArTST?style=flat)](https://github.com/mbzuai-nlp/ArTST/tree/main)| [![acl](https://img.shields.io/badge/pdf-ACL%20Anthology-CBCBCC.svg)](https://aclanthology.org/2023.arabicnlp-1.5/) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.15714-b31b1b.svg)](https://arxiv.org/abs/2310.16621) | :heavy_minus_sign: |
