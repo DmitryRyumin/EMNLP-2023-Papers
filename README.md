@@ -121,6 +121,11 @@ EMNLP 2023 Papers: A comprehensive collection of cutting-edge research papers pr
         <td align="center"><a href="https://github.com/DmitryRyumin/WACV-2024-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/WACV-2024-Papers?style=flat" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
     </tr>
     <tr>
+        <td>FG</td>
+        <td align="center">:heavy_minus_sign:</td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/FG-2024-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/FG-2024-Papers?style=flat" alt="" /></a></td>
+    </tr>
+    <tr>
         <td colspan="3" align="center"><i>Speech/Signal Processing (SP/SigProc)</i></td>
     </tr>
     <tr>
